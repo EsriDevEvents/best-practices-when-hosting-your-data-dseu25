@@ -1,0 +1,15 @@
+{
+  "name": "demo4-feature-service-sdk-trade-offs",
+  "version": "1.0.0",
+  "description": "",
+  "license": "Apache-2.0",
+  "author": "Raul Jimenez",
+  "type": "commonjs",
+  "scripts": {
+    "start": "npx vite",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    
+  }
+}

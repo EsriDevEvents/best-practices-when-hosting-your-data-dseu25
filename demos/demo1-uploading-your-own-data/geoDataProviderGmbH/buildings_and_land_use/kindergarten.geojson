@@ -1,0 +1,2005 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kinderzentrum Siesmayerstraße",
+        "operator": "Der Magistrat",
+        "min_age": "0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6586047,
+          50.1237867
+        ]
+      },
+      "id": "node/323977072"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kinderzentrum Falkstraße (KiZ 133)",
+        "operator": "Kita Frankfurt",
+        "min_age": "3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6479569,
+          50.1232025
+        ]
+      },
+      "id": "node/392078169"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Francke-Campus",
+        "operator": "Träger 55 e.V.",
+        "min_age": "6"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6434596,
+          50.1234049
+        ]
+      },
+      "id": "node/423205672"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Evang. Kindertagesstätte Markuskindergarten Bockenheim",
+        "operator": "Evangelische Gemeinde Bockenheim",
+        "min_age": "3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6462751,
+          50.1203696
+        ]
+      },
+      "id": "node/443932034"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kinderzentrum Werrastraße (KiZ 99)",
+        "operator": "Kita Frankfurt",
+        "min_age": "3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6384392,
+          50.1210781
+        ]
+      },
+      "id": "node/479732966"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kids & Co",
+        "operator": "Diakonisches Werk im Evangelischen Regionalverband",
+        "min_age": "6"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.667583,
+          50.1144401
+        ]
+      },
+      "id": "node/481301626"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kindertagestatte Sankt Elisabeth",
+        "operator": "Katholische Gemeinde St. Marien",
+        "min_age": "3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6437834,
+          50.1200654
+        ]
+      },
+      "id": "node/488322531"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ev. Kindertagesstätte St. Jakob",
+        "operator": "Ev. St. Jaboks Gemeinde",
+        "min_age": "3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.637967,
+          50.1214467
+        ]
+      },
+      "id": "node/522909847"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rappelkiste Mini-Kindergarten",
+        "operator": "Arbeiter-Samariter-Bund",
+        "min_age": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6718034,
+          50.1230427
+        ]
+      },
+      "id": "node/568435223"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Krabbelstube Robert-Mayer-Straße",
+        "operator": "BVZ",
+        "min_age": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6448388,
+          50.1175749
+        ]
+      },
+      "id": "node/619213913"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kita Farbenland",
+        "operator": "Arbeiter-Samariter-Bund",
+        "min_age": "0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6571232,
+          50.1148341
+        ]
+      },
+      "id": "node/715551475"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kita Kleine Europäer",
+        "operator": "Schönhof GmbH",
+        "min_age": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6581516,
+          50.1177009
+        ]
+      },
+      "id": "node/715551914"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Katholischer Kindergarten St. Antonius",
+        "operator": "Sozialdienst katholischer Frauen e.V.",
+        "min_age": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6603303,
+          50.1110264
+        ]
+      },
+      "id": "node/897440230"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ev Kindergarten",
+        "operator": "Evangelische Dreifaltigkeitsgemeinde",
+        "min_age": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6350918,
+          50.1159453
+        ]
+      },
+      "id": "node/961684747"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kunst- und Kulturkindergarten",
+        "operator": "Kunst- und Kulturkinderkarten e.V.",
+        "min_age": "0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.638258,
+          50.1189782
+        ]
+      },
+      "id": "node/961685472"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kita 13",
+        "operator": "Kita Frankfurt",
+        "min_age": "3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6379735,
+          50.1155428
+        ]
+      },
+      "id": "node/961685654"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kita Farbenfroh",
+        "operator": "Evangelische Dreiheiligkeits Gemeinde",
+        "min_age": "0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6321736,
+          50.1131876
+        ]
+      },
+      "id": "node/1137674616"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Katholische Kindertagesstätte St. Pius",
+        "operator": "Kath. Kirchengemeinde St. Pius Frankfurt",
+        "min_age": "3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6327804,
+          50.1116597
+        ]
+      },
+      "id": "node/1137675754"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Uni-Kita",
+        "operator": "Kita bei der J.-W.-Goethe-Universität",
+        "min_age": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6508038,
+          50.1184913
+        ]
+      },
+      "id": "node/1354223451"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kinderkrippe \"Kleine Strolche\"",
+        "operator": "Katholische Pfarrgemeinde St. Bonifatius",
+        "min_age": "3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6332558,
+          50.1049594
+        ]
+      },
+      "id": "node/1552512638"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kinderzentrum Krifteler Straße 80",
+        "operator": "Verein für Elternberatung und Erziehungspraxis",
+        "min_age": "6"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6333458,
+          50.1046617
+        ]
+      },
+      "id": "node/1552512646"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ev. Kita Friedenskirche",
+        "operator": "Ev. St. Jaboks Gemeinde",
+        "min_age": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6326293,
+          50.1041137
+        ]
+      },
+      "id": "node/1552512690"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kita Maria Hilf",
+        "operator": "Kids Camp gGmbH",
+        "min_age": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6275235,
+          50.102605
+        ]
+      },
+      "id": "node/1554611583"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kita Galluspark",
+        "operator": "ASB Lehrerkooperative gGmbH",
+        "min_age": "3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6346893,
+          50.0987535
+        ]
+      },
+      "id": "node/1586104487"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kita St. Gallus",
+        "operator": "Evangelische Paul-Gerhardt-Gemeinde",
+        "min_age": "6"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6403881,
+          50.1032596
+        ]
+      },
+      "id": "node/1596680094"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ev. Kindergarten",
+        "operator": "Sozialpädagogischer Verein zur familienergänzenden Erziehung",
+        "min_age": "0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6211972,
+          50.0987249
+        ]
+      },
+      "id": "node/1669067991"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Haus der kleinen Strolche",
+        "operator": "Evangelische Paul-Gerhardt-Gemeinde",
+        "min_age": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6446791,
+          50.0895375
+        ]
+      },
+      "id": "node/2009667218"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Krümelkiste",
+        "operator": "BVZ",
+        "min_age": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6478787,
+          50.0882427
+        ]
+      },
+      "id": "node/2170860215"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kullerwiese",
+        "operator": "BVZ",
+        "min_age": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6594894,
+          50.090619
+        ]
+      },
+      "id": "node/2340400314"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kita 82",
+        "operator": "Schönhof GmbH",
+        "min_age": "6"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6484691,
+          50.0978132
+        ]
+      },
+      "id": "node/2385602426"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "AWO Kindertagesstätte Gutleut",
+        "operator": "AWO Frankfurt",
+        "min_age": "3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6691398,
+          50.1064299
+        ]
+      },
+      "id": "node/2390402274"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Katholische Kindertagestätte St. Bonifatius",
+        "operator": "Katholische Pfarrgemeinde St. Bonifatius",
+        "min_age": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6771083,
+          50.0977069
+        ]
+      },
+      "id": "node/2627073812"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kinderhaus Ratatouille",
+        "operator": "BVZ",
+        "min_age": "3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6775928,
+          50.1024705
+        ]
+      },
+      "id": "node/2661220036"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Evangelische Lukas-Kita der Maria-Magdalena-Gemeinde",
+        "operator": "Evangelische Maria-Magdalena-Gemeinde",
+        "min_age": "3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6760742,
+          50.1012888
+        ]
+      },
+      "id": "node/2661257223"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kinderzentrum Diesterwegstraße (KiZ 14)",
+        "operator": "Kita Frankfurt",
+        "min_age": "6"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6826223,
+          50.101476
+        ]
+      },
+      "id": "node/2671227829"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Skaska",
+        "operator": "SLOWO e.V. Verein zur Pflege der russischen Kultur",
+        "min_age": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6703945,
+          50.0958283
+        ]
+      },
+      "id": "node/2686476718"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Osterkindertagesstätte",
+        "operator": "Evangelische Maria-Magdalena-Gemeinde",
+        "min_age": "3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6719642,
+          50.0912136
+        ]
+      },
+      "id": "node/2686477274"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Krabbelstube Benjamin",
+        "operator": "Diakonisches Werk im Evangelischen Regionalverband",
+        "min_age": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6795104,
+          50.0915054
+        ]
+      },
+      "id": "node/2707035234"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kinderoase",
+        "operator": "BVZ",
+        "min_age": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6810321,
+          50.0916577
+        ]
+      },
+      "id": "node/2785183815"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kinderzentrum Odenwaldstraße (KiZ 148)",
+        "operator": "Kita Frankfurt",
+        "min_age": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6424407,
+          50.0861359
+        ]
+      },
+      "id": "node/2866290001"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Katholische Kirchengemeinde St. Jakobus, Kita Kinderreich",
+        "operator": "St. Jakobus Frankfurt",
+        "min_age": "3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6456028,
+          50.0858305
+        ]
+      },
+      "id": "node/2866323067"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "KiTa Weltentdecker",
+        "operator": "Imbradiva e.V.",
+        "min_age": "0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6508366,
+          50.1081541
+        ]
+      },
+      "id": "node/2871942452"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kinderzentrum Breubergstraße (KiZ 60)",
+        "operator": "Kita Frankfurt",
+        "min_age": "3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6414239,
+          50.0859699
+        ]
+      },
+      "id": "node/2877974302"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "AWO Kita Niederrad",
+        "operator": "Arbeiterwohlfahrt Kreisverband Frankfurt am Main",
+        "min_age": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.641385,
+          50.0865579
+        ]
+      },
+      "id": "node/2877974401"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kinderzentrum Melibocusstraße (KiZ 121)",
+        "operator": "Kita Frankfurt",
+        "min_age": "3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6374167,
+          50.0829998
+        ]
+      },
+      "id": "node/2878193101"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kinderzentrum Kelsterbacher Straße (KiZ 122)",
+        "operator": "Kita Frankfurt",
+        "min_age": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6402456,
+          50.0887447
+        ]
+      },
+      "id": "node/2880108230"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Schneckenpost",
+        "operator": "BVZ",
+        "min_age": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6492449,
+          50.0857079
+        ]
+      },
+      "id": "node/2886942006"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kindertagesstätte Sternengucker",
+        "operator": "Veggie-Kids e.V.",
+        "min_age": "3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6311422,
+          50.1171624
+        ]
+      },
+      "id": "node/3294556979"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Safari Kids",
+        "operator": "SLOWO e.V. Verein zur Pflege der russischen Kultur",
+        "min_age": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6278207,
+          50.107462
+        ]
+      },
+      "id": "node/3434567393"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Liebfrauen",
+        "operator": "Träger 55 e.V.",
+        "min_age": "0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6831534,
+          50.1169821
+        ]
+      },
+      "id": "node/3856098751"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "AWO Kita Adlerwerke",
+        "operator": "ASB Lehrerkooperative Bildung und Kommunikation gGmbH",
+        "min_age": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6378143,
+          50.1002043
+        ]
+      },
+      "id": "node/4029830119"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kindertagesstätte KiDZ",
+        "operator": "DZ BANK",
+        "min_age": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6605076,
+          50.1106141
+        ]
+      },
+      "id": "node/4340835094"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "AWO Kindertagesstätte Bockenheim",
+        "min_age": "3",
+        "operator": "Erasmus Frankfurt gGmbH"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6352813,
+          50.122683
+        ]
+      },
+      "id": "node/4405976595"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Süßwasserpiraten",
+        "min_age": "1",
+        "operator": "Arbeiter-Samariter-Bund"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6381689,
+          50.120811
+        ]
+      },
+      "id": "node/4802192975"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mainzer Krabben",
+        "operator": "EBI – Entwicklungs- und Bildungsinitiative e.V.",
+        "min_age": "6"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6289629,
+          50.101797
+        ]
+      },
+      "id": "node/4876246443"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sonnenschein",
+        "operator": "Internationales Familienzentrum e.V.",
+        "min_age": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.657342,
+          50.1126175
+        ]
+      },
+      "id": "node/6276669522"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kita WaRum?",
+        "operator": "Veggie-Kids e.V.",
+        "min_age": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6507402,
+          50.1160162
+        ]
+      },
+      "id": "node/6432469197"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Spielraum-Schülerladen",
+        "operator": "Spielraum im Stadtteil e.V.",
+        "min_age": "6"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6470608,
+          50.1195406
+        ]
+      },
+      "id": "node/6448191278"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mädchenhort Friesengasse",
+        "operator": "Kindergesellschaft Bockenheim gGmbH",
+        "min_age": "6"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6387651,
+          50.1238607
+        ]
+      },
+      "id": "node/6501529414"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mokita Kinderladen",
+        "operator": "Veggie-Kids e.V.",
+        "min_age": "3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6377543,
+          50.1224205
+        ]
+      },
+      "id": "node/6670400577"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Grüne Insel II",
+        "operator": "Sozialpädagogischer Verein",
+        "min_age": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6365791,
+          50.0858602
+        ]
+      },
+      "id": "node/7162331223"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kinderladen Bullerbü",
+        "operator": "Sozialpädagogischer Verein",
+        "min_age": "3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6483711,
+          50.0846724
+        ]
+      },
+      "id": "node/7162331224"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "MainAbenteuerland",
+        "operator": "BVZ",
+        "min_age": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6830643,
+          50.1058581
+        ]
+      },
+      "id": "node/8563918698"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Montessori Kinderzentrum",
+        "operator": "Montessori Kinderzentrum",
+        "min_age": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6795104,
+          50.1037507
+        ]
+      },
+      "id": "node/8563918699"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mainkrokodile gGmbH, Kinderhaus 5",
+        "operator": "Mainkrokodile gGmbH",
+        "min_age": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6818144,
+          50.1037094
+        ]
+      },
+      "id": "node/8563918700"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kinderzentrum Launitzstraße (KiZ 46)",
+        "operator": "Kita Frankfurt",
+        "min_age": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6831367,
+          50.1015641
+        ]
+      },
+      "id": "node/8563918705"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mainkrokodile gGmbH, Kinderhaus 1",
+        "operator": "Mainkrokodile gGmbH",
+        "min_age": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6826056,
+          50.1006608
+        ]
+      },
+      "id": "node/8563918706"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Stadtstrolche",
+        "operator": "Träger 55 e.V.",
+        "min_age": "3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6815837,
+          50.1003683
+        ]
+      },
+      "id": "node/8563918707"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mainkrokodile gGmbH, Kinderhaus 7",
+        "operator": "Mainkrokodile gGmbH",
+        "min_age": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6843578,
+          50.098982
+        ]
+      },
+      "id": "node/8563918710"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Schülerladen Sternschnuppe",
+        "operator": "Sozialpädagogischer Verein",
+        "min_age": "6"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6809856,
+          50.0980697
+        ]
+      },
+      "id": "node/8563918711"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Arcobaleno",
+        "operator": "Träger 55 e.V.",
+        "min_age": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6817688,
+          50.0980938
+        ]
+      },
+      "id": "node/8563918712"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tranquilla Tram",
+        "operator": "Sozialpädagogischer Verein",
+        "min_age": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6821336,
+          50.0964747
+        ]
+      },
+      "id": "node/8563918714"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Grüne Insel I",
+        "operator": "Sozialpädagogischer Verein",
+        "min_age": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6414358,
+          50.086066
+        ]
+      },
+      "id": "node/8653222595"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Krabbelstube Heimatring",
+        "operator": "BVZ",
+        "min_age": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6684301,
+          50.0924758
+        ]
+      },
+      "id": "node/8724524401"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kleine Entdecker",
+        "operator": "Verein für Elternberatung und Erziehungspraxis",
+        "min_age": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6689424,
+          50.0926978
+        ]
+      },
+      "id": "node/8724524402"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Freie Schule Frankfurt Vogelweidstraße",
+        "operator": "Verein für angewandte Sozialpädagogik e.V.",
+        "min_age": "3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6665177,
+          50.097834
+        ]
+      },
+      "id": "node/8724524404"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "operator": "Katholische Pfarrgemeinde St. Bonifatius",
+        "min_age": "3",
+        "name": "O'Connell and Sons"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6761442,
+          50.0885798
+        ]
+      },
+      "id": "node/8724524405"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Erweiterte Schulische Betreuung der Riedhofschule",
+        "operator": "Kita Frankfurt",
+        "min_age": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6734271,
+          50.0935805
+        ]
+      },
+      "id": "node/8724524406"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kita Wolkentanz",
+        "operator": "BVZ",
+        "min_age": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6718124,
+          50.093849
+        ]
+      },
+      "id": "node/8724524407"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kids Camp Kennedyalle",
+        "operator": "Kids Camp gGmbH",
+        "min_age": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6727136,
+          50.0988061
+        ]
+      },
+      "id": "node/8724524408"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mainkrokodile gGmbH, Kinderhaus 6",
+        "operator": "Mainkrokodile gGmbH",
+        "min_age": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.672078,
+          50.0982607
+        ]
+      },
+      "id": "node/8724524409"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "AWO Kindertagesstätte Holbeinviertel",
+        "operator": "Arbeiterwohlfahrt Kreisverband Ffm. e.V.",
+        "min_age": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.678365,
+          50.0969909
+        ]
+      },
+      "id": "node/8724524410"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mainkrokodile gGmbH, Kinderhaus 3",
+        "operator": "Mainkrokodile gGmbH",
+        "min_age": "3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6742908,
+          50.0976017
+        ]
+      },
+      "id": "node/8724543325"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kinderhaus der Evangelische Paul-Gerhardt-Gemeinde",
+        "min_age": "3",
+        "operator": "Kinder Bildung Zukunft e.V."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6453363,
+          50.0815167
+        ]
+      },
+      "id": "node/8724927195"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hokus Pokus",
+        "operator": "Sozialpädagogischer Verein",
+        "min_age": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6468853,
+          50.0827129
+        ]
+      },
+      "id": "node/8724927196"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Internationale Krabbelstube Rennmäuse",
+        "operator": "ASB Lehrerkooperative Bildung und Kommunikation gGmbH",
+        "min_age": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6505505,
+          50.0827525
+        ]
+      },
+      "id": "node/8724927197"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Spatzenest",
+        "operator": "BVZ",
+        "min_age": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6480534,
+          50.083317
+        ]
+      },
+      "id": "node/8724927198"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Schwarzwaldwichtel",
+        "operator": "Sozialpädagogischer Verein",
+        "min_age": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6493824,
+          50.0839219
+        ]
+      },
+      "id": "node/8724927199"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kinderzentrum Bruchfeldstraße (KiZ 64)",
+        "operator": "Kita Frankfurt",
+        "min_age": "6"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6434199,
+          50.0867539
+        ]
+      },
+      "id": "node/8724927200"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "IFZ Kita KiFaZ Niederrad",
+        "operator": "Internationales Familienzentrum e.V.",
+        "min_age": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6424315,
+          50.0893473
+        ]
+      },
+      "id": "node/8724927201"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Erasmus Kita Regenbogen",
+        "operator": "Erasmus Frankfurt gGmbH",
+        "min_age": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6445218,
+          50.0883939
+        ]
+      },
+      "id": "node/8724927202"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ESB an der Frauenhofschule",
+        "operator": "Internationales Familienzentrum e.V.",
+        "min_age": "6"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6506482,
+          50.0886594
+        ]
+      },
+      "id": "node/8724927203"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Krabbelstube Hippocampus",
+        "operator": "BVZ",
+        "min_age": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6510306,
+          50.0925698
+        ]
+      },
+      "id": "node/8724927204"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kita Kleyerstraße",
+        "operator": "Kids Camp gGmbH",
+        "min_age": "0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6425341,
+          50.1021521
+        ]
+      },
+      "id": "node/9530309849"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Internationale Kita Curumim",
+        "operator": "Imbradiva e.V.",
+        "min_age": "0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6498096,
+          50.1228623
+        ]
+      },
+      "id": "node/9531051366"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Montessori-Kinderhaus",
+        "operator": "Schulverein Anna Schmidt e. V.",
+        "min_age": "0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.674913,
+          50.1183572
+        ]
+      },
+      "id": "node/9956488347"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "AWO Kita Da-Vinci-Garten",
+        "operator": "AWO Frankfurt",
+        "min_age": "6"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6199744,
+          50.113984
+        ]
+      },
+      "id": "node/10093671966"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kinderzentrum Rohmerplatz A (KIZ 142)",
+        "operator": "Kita Frankfurt",
+        "min_age": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6457605,
+          50.1215711
+        ]
+      },
+      "id": "node/10128965702"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "KiFaZ",
+        "operator": "Sozialdienst katholischer Frauen e.V.",
+        "min_age": "0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6393242,
+          50.103361
+        ]
+      },
+      "id": "node/10148002135"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kinderzentrum Bleichstraße",
+        "operator": "Kita Frankfurt",
+        "min_age": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6844952,
+          50.1177946
+        ]
+      },
+      "id": "node/10733452206"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Stadthüpfer",
+        "operator": "Sozialpädagogischer Verein",
+        "min_age": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.639186,
+          50.0993842
+        ]
+      },
+      "id": "node/10929721131"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "KI-BI-Z Güterplatz",
+        "operator": "Kinder Bildung Zukunft e.V.",
+        "min_age": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6530745,
+          50.1076601
+        ]
+      },
+      "id": "node/10964266358"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kita Main-Monde",
+        "operator": "EBI – Entwicklungs- und Bildungsinitiative e.V.",
+        "min_age": "0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.633575,
+          50.0835307
+        ]
+      },
+      "id": "node/10965790896"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kita Main-Planeten",
+        "operator": "EBI – Entwicklungs- und Bildungsinitiative e.V.",
+        "min_age": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6442762,
+          50.1194773
+        ]
+      },
+      "id": "node/10965810540"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pinocchio",
+        "operator": "Bischöfliches Ordinariat Limburg",
+        "min_age": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6837921,
+          50.1196186
+        ]
+      },
+      "id": "node/11456202775"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Krabbelstube Am Weingarten",
+        "min_age": "1",
+        "operator": "Evangelische Gemeinde Bockenheim"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6482935,
+          50.1236978
+        ]
+      },
+      "id": "node/11619398542"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Krabbelstube Moses",
+        "operator": "Diakonisches Werk für Frankfurt und Offenbach",
+        "min_age": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6441029,
+          50.120335
+        ]
+      },
+      "id": "node/11619398549"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Deutsch-spanischer Kindergarten 2SonMás",
+        "min_age": "2",
+        "operator": "Kath. Kirchengemeinde St. Pius Frankfurt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6393496,
+          50.1219087
+        ]
+      },
+      "id": "node/11619398550"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Griechisch-Deutscher Kindergarten",
+        "operator": "Griechische Gemeinde Hessen e.V.",
+        "min_age": "3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6465867,
+          50.119499
+        ]
+      },
+      "id": "node/11619398551"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Spielraum im Stadtteil e.V. - Kinderladen",
+        "operator": "Spielraum im Stadtteil e.V.",
+        "min_age": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6481026,
+          50.1207736
+        ]
+      },
+      "id": "node/11627567362"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Krabbelstube \"Die Schönhof 12\"",
+        "operator": "Schönhof GmbH",
+        "min_age": "0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6355607,
+          50.1230407
+        ]
+      },
+      "id": "node/11638205812"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Krabbelstube Jupp & Jule",
+        "operator": "BVZ",
+        "min_age": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6443586,
+          50.1169969
+        ]
+      },
+      "id": "node/11638503904"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Multikulturelles Kinderhaus „Kinderinsel“",
+        "operator": "Türkisches Volkshaus Frankfurt e.V.",
+        "min_age": "6"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6454108,
+          50.1167944
+        ]
+      },
+      "id": "node/11638548294"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fintosch International Toddler School & Kindergarten",
+        "operator": "Fintosch International Toddler School & Kindergarten",
+        "min_age": "0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6491001,
+          50.117624
+        ]
+      },
+      "id": "node/11638574521"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kindertagesstätte \"St. Katharina\"",
+        "operator": "Caritasverband Frankfurt",
+        "min_age": "0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6501681,
+          50.1193695
+        ]
+      },
+      "id": "node/11638655586"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kita Wortreich",
+        "operator": "BVZ",
+        "min_age": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6438484,
+          50.1219795
+        ]
+      },
+      "id": "node/11638769364"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kinderzentrum Rohmerplatz B (KIZ 153)",
+        "operator": "Kita Frankfurt",
+        "min_age": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6460529,
+          50.1214099
+        ]
+      },
+      "id": "node/11638779498"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ESB Bonifatiusschule",
+        "operator": "Kindergesellschaft Bockenheim gGmbH",
+        "min_age": "6"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6450422,
+          50.1156162
+        ]
+      },
+      "id": "node/11640517353"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kinderhaus Am Weingarten",
+        "min_age": "6",
+        "operator": "Kath. Kirchengemeinde St. Pius Frankfurt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6473929,
+          50.122865
+        ]
+      },
+      "id": "node/11753345649"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Krabbelstube Kleine Niederräder",
+        "operator": "BVZ",
+        "min_age": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6322879,
+          50.0813507
+        ]
+      },
+      "id": "node/12133395034"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kindertagesstätte Gabriel",
+        "operator": "Evangelischer Regionalverband Frankfurt und Offenbach",
+        "min_age": "6"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6339356,
+          50.1210906
+        ]
+      },
+      "id": "node/12292179685"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kita MainZauber",
+        "operator": "Sozialpädagogischer Verein zur familienergänzenden Erziehung",
+        "min_age": "6"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.651433,
+          50.0966399
+        ]
+      },
+      "id": "node/12834723345"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kinder Bildung Zukunft e.V.",
+        "operator": "Evangelische Paul-Gerhardt-Gemeinde",
+        "min_age": "0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6432973,
+          50.1224387
+        ]
+      },
+      "id": "node/13055952833"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "KiTa Westside Tower",
+        "operator": "Diakonisches Werk im Evangelischen Regionalverband",
+        "min_age": "6"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6234354,
+          50.1079081
+        ]
+      },
+      "id": "node/13075935425"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kita Mainglöckchen",
+        "operator": "Diakonisches Werk im Evangelischen Regionalverband",
+        "min_age": "3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6315927,
+          50.1013576
+        ]
+      },
+      "id": "node/13276177815"
+    }
+  ]
+}

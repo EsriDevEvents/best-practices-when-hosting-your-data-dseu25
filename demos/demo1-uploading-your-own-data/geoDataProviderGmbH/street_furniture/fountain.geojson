@@ -1,0 +1,757 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "drinking_water": "no",
+        "material": "copper",
+        "fountain": "drinking"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6425178,
+          50.1209165
+        ]
+      },
+      "id": "node/383348478"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "drinking_water": "yes",
+        "material": "copper",
+        "fountain": "decorative"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6603266,
+          50.1099166
+        ]
+      },
+      "id": "node/569055468"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "drinking_water": "yes",
+        "material": "sandstone",
+        "fountain": "drinking"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6520585,
+          50.1138287
+        ]
+      },
+      "id": "node/630648269"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "drinking_water": "no",
+        "material": "copper",
+        "fountain": "decorative"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6840701,
+          50.1132789
+        ]
+      },
+      "id": "node/633225422"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "drinking_water": "no",
+        "material": "granite",
+        "fountain": "drinking"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6785107,
+          50.1139273
+        ]
+      },
+      "id": "node/663400567"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "drinking_water": "yes",
+        "material": "copper",
+        "fountain": "drinking"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6812893,
+          50.1099542
+        ]
+      },
+      "id": "node/676728293"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "drinking_water": "yes",
+        "material": "sandstone",
+        "fountain": "drinking"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6275785,
+          50.0817246
+        ]
+      },
+      "id": "node/921136001"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "drinking_water": "no",
+        "material": "bronze",
+        "fountain": "decorative"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6685149,
+          50.0869201
+        ]
+      },
+      "id": "node/1164161112"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "drinking_water": "yes",
+        "material": "sandstone",
+        "fountain": "drinking"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6767867,
+          50.1137953
+        ]
+      },
+      "id": "node/1315152828"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "drinking_water": "yes",
+        "material": "bronze",
+        "fountain": "decorative"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6638789,
+          50.0893459
+        ]
+      },
+      "id": "node/1344435631"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "material": "sandstone",
+        "drinking_water": "no",
+        "fountain": "decorative"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6830494,
+          50.1041631
+        ]
+      },
+      "id": "node/1579299696"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "drinking_water": "no",
+        "material": "granite",
+        "fountain": "decorative"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6742305,
+          50.101096
+        ]
+      },
+      "id": "node/1801605397"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "drinking_water": "no",
+        "material": "bronze",
+        "fountain": "drinking"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6812605,
+          50.1103691
+        ]
+      },
+      "id": "node/1851644027"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "drinking_water": "no",
+        "material": "sandstone",
+        "fountain": "drinking"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6824508,
+          50.110476
+        ]
+      },
+      "id": "node/1853002795"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "drinking_water": "yes",
+        "material": "sandstone",
+        "fountain": "decorative"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.657271,
+          50.1225465
+        ]
+      },
+      "id": "node/1889910195"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "drinking_water": "no",
+        "material": "copper",
+        "fountain": "drinking"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6563035,
+          50.1229175
+        ]
+      },
+      "id": "node/1889910198"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "drinking_water": "yes",
+        "material": "copper",
+        "fountain": "decorative"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6568931,
+          50.1230095
+        ]
+      },
+      "id": "node/1889910199"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "drinking_water": "no",
+        "material": "sandstone",
+        "fountain": "decorative"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6807548,
+          50.1179813
+        ]
+      },
+      "id": "node/1899578730"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "drinking_water": "yes",
+        "material": "sandstone",
+        "fountain": "drinking"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.675645,
+          50.1168028
+        ]
+      },
+      "id": "node/2112032061"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "drinking_water": "yes",
+        "material": "sandstone",
+        "fountain": "decorative"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6750215,
+          50.114446
+        ]
+      },
+      "id": "node/2546694007"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "material": "sandstone",
+        "fountain": "decorative",
+        "drinking_water": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6690803,
+          50.1132081
+        ]
+      },
+      "id": "node/2714152951"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "drinking_water": "yes",
+        "material": "copper",
+        "fountain": "drinking"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6766724,
+          50.1175771
+        ]
+      },
+      "id": "node/2939680973"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "drinking_water": "no",
+        "material": "granite",
+        "fountain": "drinking"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.676169,
+          50.1174644
+        ]
+      },
+      "id": "node/2954881652"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "drinking_water": "no",
+        "material": "sandstone",
+        "fountain": "decorative"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6690674,
+          50.1092698
+        ]
+      },
+      "id": "node/3627561374"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "drinking_water": "no",
+        "material": "bronze",
+        "fountain": "decorative"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6552753,
+          50.1221226
+        ]
+      },
+      "id": "node/4596433248"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "drinking_water": "yes",
+        "material": "bronze",
+        "fountain": "decorative"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6839133,
+          50.1107882
+        ]
+      },
+      "id": "node/5924794227"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "drinking_water": "no",
+        "material": "bronze",
+        "fountain": "decorative"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6570415,
+          50.121133
+        ]
+      },
+      "id": "node/5989813585"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "material": "bronze",
+        "fountain": "drinking",
+        "drinking_water": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6627959,
+          50.1183948
+        ]
+      },
+      "id": "node/8446107108"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "drinking_water": "yes",
+        "material": "granite",
+        "fountain": "drinking"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6576809,
+          50.1214576
+        ]
+      },
+      "id": "node/8454853469"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "drinking_water": "no",
+        "material": "sandstone",
+        "fountain": "drinking"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6533503,
+          50.1235531
+        ]
+      },
+      "id": "node/8454905702"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "drinking_water": "no",
+        "material": "granite",
+        "fountain": "decorative"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6642761,
+          50.1210015
+        ]
+      },
+      "id": "node/8454941731"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "drinking_water": "yes",
+        "material": "granite",
+        "fountain": "decorative"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6532202,
+          50.1239791
+        ]
+      },
+      "id": "node/9124238433"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "drinking_water": "no",
+        "material": "bronze",
+        "fountain": "drinking"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6719217,
+          50.1169362
+        ]
+      },
+      "id": "node/9217232993"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "drinking_water": "no",
+        "material": "copper",
+        "fountain": "decorative"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6764325,
+          50.1123346
+        ]
+      },
+      "id": "node/9831903519"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "drinking_water": "yes",
+        "material": "granite",
+        "fountain": "decorative"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6577695,
+          50.1227005
+        ]
+      },
+      "id": "node/10184252076"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "drinking_water": "yes",
+        "material": "sandstone",
+        "fountain": "decorative"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6582532,
+          50.1218195
+        ]
+      },
+      "id": "node/10184252077"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "drinking_water": "no",
+        "material": "bronze",
+        "fountain": "decorative"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6534926,
+          50.1238855
+        ]
+      },
+      "id": "node/10184252078"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "drinking_water": "no",
+        "material": "granite",
+        "fountain": "decorative"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6578328,
+          50.1232123
+        ]
+      },
+      "id": "node/10184252079"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "drinking_water": "yes",
+        "material": "copper",
+        "fountain": "decorative"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6567321,
+          50.1221378
+        ]
+      },
+      "id": "node/10184252080"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "drinking_water": "yes",
+        "material": "granite",
+        "fountain": "drinking"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6573727,
+          50.1236816
+        ]
+      },
+      "id": "node/10184252081"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "drinking_water": "yes",
+        "material": "bronze",
+        "fountain": "decorative"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6564259,
+          50.1236272
+        ]
+      },
+      "id": "node/10184252082"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "drinking_water": "yes",
+        "material": "granite",
+        "fountain": "drinking"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6148095,
+          50.1231528
+        ]
+      },
+      "id": "node/11865710672"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "drinking_water": "no",
+        "material": "granite",
+        "fountain": "decorative"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6149567,
+          50.1230408
+        ]
+      },
+      "id": "node/11865710673"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "drinking_water": "no",
+        "material": "granite",
+        "fountain": "drinking"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6152225,
+          50.1230002
+        ]
+      },
+      "id": "node/11865710674"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "drinking_water": "yes",
+        "material": "copper",
+        "fountain": "drinking"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6154604,
+          50.1230727
+        ]
+      },
+      "id": "node/11865710675"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "drinking_water": "no",
+        "material": "copper",
+        "fountain": "decorative"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6155752,
+          50.1232236
+        ]
+      },
+      "id": "node/11865710676"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "drinking_water": "no",
+        "fountain": "drinking",
+        "material": "sandstone"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6701483,
+          50.1109269
+        ]
+      },
+      "id": "node/12112418502"
+    }
+  ]
+}

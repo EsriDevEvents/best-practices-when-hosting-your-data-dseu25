@@ -1,0 +1,5603 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Güterplatz",
+        "highway": "bus_stop",
+        "bench": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6560677,
+          50.1073205
+        ]
+      },
+      "id": "node/305263669"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Brigitte-Frauendorf-Straße",
+        "highway": "bus_stop",
+        "bench": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6320873,
+          50.1228018
+        ]
+      },
+      "id": "node/392767181"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Brigitte-Frauendorf-Straße",
+        "highway": "bus_stop",
+        "bench": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6328326,
+          50.1231756
+        ]
+      },
+      "id": "node/392767182"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Valentina-Archipowa-Straße",
+        "highway": "bus_stop",
+        "bench": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6274691,
+          50.1214102
+        ]
+      },
+      "id": "node/392767183"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sternbrücke",
+        "highway": "bus_stop",
+        "bench": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6206686,
+          50.1212936
+        ]
+      },
+      "id": "node/392767184"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Parkweg",
+        "highway": "bus_stop",
+        "bench": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6157823,
+          50.1217718
+        ]
+      },
+      "id": "node/392767185"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Parkweg",
+        "highway": "bus_stop",
+        "bench": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.614839,
+          50.1218991
+        ]
+      },
+      "id": "node/392767186"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Zum Rebstockbad",
+        "highway": "bus_stop",
+        "bench": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6191303,
+          50.1126604
+        ]
+      },
+      "id": "node/392801015"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Katharinenkreisel",
+        "highway": "bus_stop",
+        "bench": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6302557,
+          50.1159385
+        ]
+      },
+      "id": "node/392801018"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ludwig-Erhard-Anlage",
+        "highway": "bus_stop",
+        "bench": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.649267,
+          50.1137856
+        ]
+      },
+      "id": "node/392801019"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Philipp-Reis-Straße",
+        "highway": "bus_stop",
+        "bench": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6362497,
+          50.1149056
+        ]
+      },
+      "id": "node/392801020"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bettinaplatz",
+        "highway": "bus_stop",
+        "bench": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6567262,
+          50.1140005
+        ]
+      },
+      "id": "node/392801021"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kettenhofweg",
+        "highway": "bus_stop",
+        "bench": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6583144,
+          50.1165503
+        ]
+      },
+      "id": "node/392801022"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Schubertstraße",
+        "highway": "bus_stop",
+        "bench": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6595243,
+          50.1189034
+        ]
+      },
+      "id": "node/392801023"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Falkstraße",
+        "highway": "bus_stop",
+        "bench": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6508145,
+          50.1214542
+        ]
+      },
+      "id": "node/431016815"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Philipp-Reis-Straße",
+        "highway": "bus_stop",
+        "bench": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6354276,
+          50.1144855
+        ]
+      },
+      "id": "node/433990852"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bettinaplatz",
+        "highway": "bus_stop",
+        "bench": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6568336,
+          50.1139756
+        ]
+      },
+      "id": "node/433990853"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kettenhofweg",
+        "highway": "bus_stop",
+        "bench": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6582852,
+          50.1161755
+        ]
+      },
+      "id": "node/433990854"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Schubertstraße",
+        "highway": "bus_stop",
+        "bench": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6595726,
+          50.1184818
+        ]
+      },
+      "id": "node/433990855"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Palmengartenstraße",
+        "highway": "bus_stop",
+        "bench": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6573324,
+          50.1196967
+        ]
+      },
+      "id": "node/433990856"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Eschenheimer Tor",
+        "highway": "bus_stop",
+        "bench": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6797842,
+          50.1186612
+        ]
+      },
+      "id": "node/442891828"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Palmengartenstraße",
+        "highway": "bus_stop",
+        "bench": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6573082,
+          50.1195785
+        ]
+      },
+      "id": "node/443917162"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Oppenheimer Landstraße",
+        "highway": "bus_stop",
+        "bench": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6821979,
+          50.095316
+        ]
+      },
+      "id": "node/456137221"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Festhalle/Messe",
+        "highway": "bus_stop",
+        "bench": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6545335,
+          50.1129936
+        ]
+      },
+      "id": "node/475736377"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Emser Straße",
+        "highway": "bus_stop",
+        "bench": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6433469,
+          50.1142449
+        ]
+      },
+      "id": "node/503471636"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Emser Straße",
+        "highway": "bus_stop",
+        "bench": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6419363,
+          50.1139968
+        ]
+      },
+      "id": "node/503471638"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Holbein-Schule",
+        "highway": "bus_stop",
+        "bench": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6794444,
+          50.0991006
+        ]
+      },
+      "id": "node/586450386"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Westbahnhof",
+        "highway": "bus_stop",
+        "bench": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6397222,
+          50.1195332
+        ]
+      },
+      "id": "node/610312623"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Zum Rebstockbad",
+        "highway": "bus_stop",
+        "bench": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6189267,
+          50.1128983
+        ]
+      },
+      "id": "node/610919824"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bockenheimer Warte",
+        "highway": "bus_stop",
+        "bench": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6541993,
+          50.1205908
+        ]
+      },
+      "id": "node/614877778"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Westbahnhof",
+        "highway": "bus_stop",
+        "bench": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.640449,
+          50.1190247
+        ]
+      },
+      "id": "node/614989325"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dubliner Straße",
+        "highway": "bus_stop",
+        "bench": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6451131,
+          50.1083528
+        ]
+      },
+      "id": "node/615218711"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dubliner Straße",
+        "highway": "bus_stop",
+        "bench": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6453641,
+          50.1088037
+        ]
+      },
+      "id": "node/615218715"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Den Haager Straße",
+        "highway": "bus_stop",
+        "bench": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6509312,
+          50.1089575
+        ]
+      },
+      "id": "node/615218716"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Speyerer Straße",
+        "highway": "bus_stop",
+        "bench": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6500607,
+          50.1051906
+        ]
+      },
+      "id": "node/615226422"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Festhalle/Messe",
+        "highway": "bus_stop",
+        "bench": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6537442,
+          50.112262
+        ]
+      },
+      "id": "node/616049145"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Haardtwaldplatz",
+        "highway": "bus_stop",
+        "bench": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6361941,
+          50.0859235
+        ]
+      },
+      "id": "node/616488749"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Haardtwaldplatz",
+        "highway": "bus_stop",
+        "bench": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6370384,
+          50.0862929
+        ]
+      },
+      "id": "node/616488750"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Siesmayerstraße (Palmengarten)",
+        "highway": "bus_stop",
+        "bench": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6585045,
+          50.123173
+        ]
+      },
+      "id": "node/616775405"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mitscherlichplatz",
+        "highway": "bus_stop",
+        "bench": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6649364,
+          50.1236201
+        ]
+      },
+      "id": "node/616813861"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sternbrücke",
+        "highway": "bus_stop",
+        "bench": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6207222,
+          50.1213955
+        ]
+      },
+      "id": "node/618448730"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Valentina-Archipowa-Straße",
+        "highway": "bus_stop",
+        "bench": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6277027,
+          50.121577
+        ]
+      },
+      "id": "node/618448734"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Weserstraße",
+        "highway": "bus_stop",
+        "bench": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6687636,
+          50.1099324
+        ]
+      },
+      "id": "node/618684879"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taunusanlage",
+        "highway": "bus_stop",
+        "bench": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6691099,
+          50.1123857
+        ]
+      },
+      "id": "node/618684881"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Alte Oper",
+        "highway": "bus_stop",
+        "bench": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6707836,
+          50.1161261
+        ]
+      },
+      "id": "node/618684886"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kronberger Straße",
+        "highway": "bus_stop",
+        "bench": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6705164,
+          50.1206516
+        ]
+      },
+      "id": "node/618684890"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bremer Platz",
+        "highway": "bus_stop",
+        "bench": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6700634,
+          50.1232524
+        ]
+      },
+      "id": "node/618684892"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Südbahnhof",
+        "highway": "bus_stop",
+        "bench": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6847899,
+          50.0995245
+        ]
+      },
+      "id": "node/619815252"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Briefzentrum",
+        "highway": "bus_stop",
+        "bench": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.635069,
+          50.0928356
+        ]
+      },
+      "id": "node/622706053"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Erntestraße",
+        "highway": "bus_stop",
+        "bench": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6387957,
+          50.0943028
+        ]
+      },
+      "id": "node/622706056"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Erntestraße",
+        "highway": "bus_stop",
+        "bench": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6384421,
+          50.0944811
+        ]
+      },
+      "id": "node/622706059"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Halmstraße",
+        "highway": "bus_stop",
+        "bench": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6419928,
+          50.09587
+        ]
+      },
+      "id": "node/622706064"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Halmstraße",
+        "highway": "bus_stop",
+        "bench": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6423666,
+          50.0961712
+        ]
+      },
+      "id": "node/622706066"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Johanna-Kirchner-Altenhilfezentrum",
+        "highway": "bus_stop",
+        "bench": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6474619,
+          50.0975924
+        ]
+      },
+      "id": "node/622706069"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Johanna-Kirchner-Altenhilfezentrum",
+        "highway": "bus_stop",
+        "bench": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6466527,
+          50.0975108
+        ]
+      },
+      "id": "node/622706070"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Camberger Straße",
+        "highway": "bus_stop",
+        "bench": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6509996,
+          50.0988425
+        ]
+      },
+      "id": "node/622706071"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Camberger Straße",
+        "highway": "bus_stop",
+        "bench": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6512245,
+          50.0987647
+        ]
+      },
+      "id": "node/622706074"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gutleut-/Heilbronner Straße",
+        "highway": "bus_stop",
+        "bench": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6540479,
+          50.0996434
+        ]
+      },
+      "id": "node/622706076"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gutleut-/Heilbronner Straße",
+        "highway": "bus_stop",
+        "bench": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6544356,
+          50.0998889
+        ]
+      },
+      "id": "node/622706080"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heilbronner Straße",
+        "highway": "bus_stop",
+        "bench": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6545365,
+          50.1020451
+        ]
+      },
+      "id": "node/622706083"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heilbronner Straße",
+        "highway": "bus_stop",
+        "bench": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.654661,
+          50.1020368
+        ]
+      },
+      "id": "node/622706088"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rottweiler Platz",
+        "highway": "bus_stop",
+        "bench": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6600655,
+          50.1011777
+        ]
+      },
+      "id": "node/622706091"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hafenstraße",
+        "highway": "bus_stop",
+        "bench": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6571913,
+          50.1031709
+        ]
+      },
+      "id": "node/622706094"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hafenstraße",
+        "highway": "bus_stop",
+        "bench": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.657445,
+          50.1031991
+        ]
+      },
+      "id": "node/622706098"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Niederräder Landstraße",
+        "highway": "bus_stop",
+        "bench": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6511266,
+          50.0882759
+        ]
+      },
+      "id": "node/660236391"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Postsiedlung",
+        "highway": "bus_stop",
+        "bench": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6237742,
+          50.1188857
+        ]
+      },
+      "id": "node/742829980"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Postsiedlung",
+        "highway": "bus_stop",
+        "bench": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6236316,
+          50.1186683
+        ]
+      },
+      "id": "node/742861369"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Römer/Paulskirche",
+        "highway": "bus_stop",
+        "bench": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6821693,
+          50.1109706
+        ]
+      },
+      "id": "node/762895054"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Römer/Paulskirche",
+        "highway": "bus_stop",
+        "bench": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.681822,
+          50.1108362
+        ]
+      },
+      "id": "node/762895063"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kriegkstraße",
+        "highway": "bus_stop",
+        "bench": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6398894,
+          50.1012191
+        ]
+      },
+      "id": "node/763067491"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kriegkstraße",
+        "highway": "bus_stop",
+        "bench": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6397117,
+          50.1012701
+        ]
+      },
+      "id": "node/763067527"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Morgenzeile",
+        "highway": "bus_stop",
+        "bench": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6175674,
+          50.0846016
+        ]
+      },
+      "id": "node/772785665"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Morgenzeile",
+        "highway": "bus_stop",
+        "bench": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.617643,
+          50.0848406
+        ]
+      },
+      "id": "node/772785674"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hauptbahnhof",
+        "highway": "bus_stop",
+        "bench": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6644706,
+          50.1074788
+        ]
+      },
+      "id": "node/772800493"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hauptbahnhof",
+        "highway": "bus_stop",
+        "bench": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6648543,
+          50.1078491
+        ]
+      },
+      "id": "node/772800500"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Triftstraße",
+        "highway": "bus_stop",
+        "bench": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6504503,
+          50.087272
+        ]
+      },
+      "id": "node/773620788"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Trift-/Frauenhofstraße",
+        "highway": "bus_stop",
+        "bench": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6491684,
+          50.086536
+        ]
+      },
+      "id": "node/773620790"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jugenheimer Straße",
+        "highway": "bus_stop",
+        "bench": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6384338,
+          50.0837141
+        ]
+      },
+      "id": "node/773620796"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sonnenweg",
+        "highway": "bus_stop",
+        "bench": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6160971,
+          50.0870272
+        ]
+      },
+      "id": "node/776858291"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sonnenweg",
+        "highway": "bus_stop",
+        "bench": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6155986,
+          50.087048
+        ]
+      },
+      "id": "node/776858308"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heizkraftwerk Niederrad",
+        "highway": "bus_stop",
+        "bench": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6281227,
+          50.0845273
+        ]
+      },
+      "id": "node/776918705"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heizkraftwerk Niederrad",
+        "highway": "bus_stop",
+        "bench": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6280372,
+          50.084406
+        ]
+      },
+      "id": "node/776918754"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Goldsteinstraße",
+        "highway": "bus_stop",
+        "bench": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6210649,
+          50.0841416
+        ]
+      },
+      "id": "node/778299864"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Waldspielpark Louisa",
+        "highway": "bus_stop",
+        "bench": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6671838,
+          50.0874948
+        ]
+      },
+      "id": "node/778299869"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gerauer Straße",
+        "highway": "bus_stop",
+        "bench": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6448691,
+          50.0837188
+        ]
+      },
+      "id": "node/778708621"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lyoner Straße",
+        "highway": "bus_stop",
+        "bench": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6294756,
+          50.0827556
+        ]
+      },
+      "id": "node/778708634"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Stresemannallee/Mörfelder Landstraße",
+        "highway": "bus_stop",
+        "bench": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6720868,
+          50.0897039
+        ]
+      },
+      "id": "node/778708645"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hahnstraße",
+        "highway": "bus_stop",
+        "bench": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6316812,
+          50.0847101
+        ]
+      },
+      "id": "node/778708647"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Humperdinckstraße",
+        "highway": "bus_stop",
+        "bench": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6621425,
+          50.0878552
+        ]
+      },
+      "id": "node/778708655"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Waldspielpark Louisa",
+        "highway": "bus_stop",
+        "bench": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6667443,
+          50.0874085
+        ]
+      },
+      "id": "node/778708659"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gerauer Straße",
+        "highway": "bus_stop",
+        "bench": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6449102,
+          50.0840316
+        ]
+      },
+      "id": "node/778708671"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Humperdinckstraße",
+        "highway": "bus_stop",
+        "bench": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6621953,
+          50.0879384
+        ]
+      },
+      "id": "node/778708674"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Stresemannallee/Mörfelder Landstraße",
+        "highway": "bus_stop",
+        "bench": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.670063,
+          50.0892038
+        ]
+      },
+      "id": "node/778708680"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hahnstraße",
+        "highway": "bus_stop",
+        "bench": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6323877,
+          50.0845597
+        ]
+      },
+      "id": "node/778708682"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Goldsteinstraße",
+        "highway": "bus_stop",
+        "bench": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6205752,
+          50.0842182
+        ]
+      },
+      "id": "node/778708683"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lyoner Straße",
+        "highway": "bus_stop",
+        "bench": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6295923,
+          50.0831006
+        ]
+      },
+      "id": "node/778708686"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Otto-Hahn-Platz",
+        "highway": "bus_stop",
+        "bench": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.674542,
+          50.1010923
+        ]
+      },
+      "id": "node/795858921"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hauptbahnhof/Karlstraße",
+        "highway": "bus_stop",
+        "bench": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6637479,
+          50.108762
+        ]
+      },
+      "id": "node/803546921"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taunusanlage",
+        "highway": "bus_stop",
+        "bench": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.667857,
+          50.1126479
+        ]
+      },
+      "id": "node/1154351436"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Haus Gallus",
+        "highway": "bus_stop",
+        "bench": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6434425,
+          50.1047256
+        ]
+      },
+      "id": "node/1164011454"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Haus Gallus",
+        "highway": "bus_stop",
+        "bench": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6438894,
+          50.1050191
+        ]
+      },
+      "id": "node/1164011459"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hellerhofschule",
+        "highway": "bus_stop",
+        "bench": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6400044,
+          50.1060639
+        ]
+      },
+      "id": "node/1400336428"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hellerhofschule",
+        "highway": "bus_stop",
+        "bench": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6393048,
+          50.1059453
+        ]
+      },
+      "id": "node/1400336446"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "highway": "bus_stop",
+        "bench": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6198566,
+          50.1119261
+        ]
+      },
+      "id": "node/1506776967"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Senckenbergmuseum",
+        "highway": "bus_stop",
+        "bench": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6523501,
+          50.1173291
+        ]
+      },
+      "id": "node/1524429568"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Eppenhainer Straße",
+        "highway": "bus_stop",
+        "bench": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6257724,
+          50.1047903
+        ]
+      },
+      "id": "node/1536786325"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Eppenhainer Straße",
+        "highway": "bus_stop",
+        "bench": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6255952,
+          50.104887
+        ]
+      },
+      "id": "node/1536786329"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Paul-Hindemith-Schule",
+        "highway": "bus_stop",
+        "bench": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6347976,
+          50.1057265
+        ]
+      },
+      "id": "node/1536786331"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Paul-Hindemith-Schule",
+        "highway": "bus_stop",
+        "bench": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6350415,
+          50.1058648
+        ]
+      },
+      "id": "node/1536786336"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Schloßborner Straße",
+        "highway": "bus_stop",
+        "bench": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6223342,
+          50.1045602
+        ]
+      },
+      "id": "node/1536786338"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Schneidhainer Straße",
+        "highway": "bus_stop",
+        "bench": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6299281,
+          50.1052394
+        ]
+      },
+      "id": "node/1536786341"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Schneidhainer Straße",
+        "highway": "bus_stop",
+        "bench": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6293754,
+          50.1053161
+        ]
+      },
+      "id": "node/1536786344"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Otto-Hahn-Platz",
+        "highway": "bus_stop",
+        "bench": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6745704,
+          50.1008781
+        ]
+      },
+      "id": "node/1547641837"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Baseler Platz",
+        "highway": "bus_stop",
+        "bench": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6643875,
+          50.1028828
+        ]
+      },
+      "id": "node/1547814842"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Baseler Platz",
+        "highway": "bus_stop",
+        "bench": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.664111,
+          50.104329
+        ]
+      },
+      "id": "node/1547814846"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Leonardo-da-Vinci-Allee",
+        "highway": "bus_stop",
+        "bench": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6271119,
+          50.1135832
+        ]
+      },
+      "id": "node/1569296168"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mönchhofstraße",
+        "highway": "bus_stop",
+        "bench": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6166019,
+          50.100516
+        ]
+      },
+      "id": "node/1569296180"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mönchhofstraße",
+        "highway": "bus_stop",
+        "bench": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6172921,
+          50.1005873
+        ]
+      },
+      "id": "node/1569296182"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rebstockbad",
+        "highway": "bus_stop",
+        "bench": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6192931,
+          50.113577
+        ]
+      },
+      "id": "node/1569296220"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rebstockbad",
+        "highway": "bus_stop",
+        "bench": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6197513,
+          50.1138709
+        ]
+      },
+      "id": "node/1569296235"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Römerhof",
+        "highway": "bus_stop",
+        "bench": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.618438,
+          50.1075828
+        ]
+      },
+      "id": "node/1569296260"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Römerhof",
+        "highway": "bus_stop",
+        "bench": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6184818,
+          50.1077181
+        ]
+      },
+      "id": "node/1569296266"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Schmidtstraße",
+        "highway": "bus_stop",
+        "bench": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6182932,
+          50.10361
+        ]
+      },
+      "id": "node/1569296270"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Schmidtstraße",
+        "highway": "bus_stop",
+        "bench": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6179886,
+          50.1038963
+        ]
+      },
+      "id": "node/1569296293"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Wickerer Straße",
+        "highway": "bus_stop",
+        "bench": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6224688,
+          50.1008613
+        ]
+      },
+      "id": "node/1569452333"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Zanderstraße",
+        "highway": "bus_stop",
+        "bench": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6596495,
+          50.1000284
+        ]
+      },
+      "id": "node/1570933004"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Zanderstraße",
+        "highway": "bus_stop",
+        "bench": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6586702,
+          50.100047
+        ]
+      },
+      "id": "node/1570933008"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Adalbert-/Schloßstraße",
+        "highway": "bus_stop",
+        "bench": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6427402,
+          50.1194261
+        ]
+      },
+      "id": "node/1586670761"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kurfürstenplatz",
+        "highway": "bus_stop",
+        "bench": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.640496,
+          50.1208274
+        ]
+      },
+      "id": "node/1586670762"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kurfürstenplatz",
+        "highway": "bus_stop",
+        "bench": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6400788,
+          50.1208473
+        ]
+      },
+      "id": "node/1586670763"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Schönhof",
+        "highway": "bus_stop",
+        "bench": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6362437,
+          50.1234585
+        ]
+      },
+      "id": "node/1586670764"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gablonzer Straße",
+        "highway": "bus_stop",
+        "bench": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6725537,
+          50.0846486
+        ]
+      },
+      "id": "node/1588740571"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gablonzer Straße",
+        "highway": "bus_stop",
+        "bench": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6720323,
+          50.0847817
+        ]
+      },
+      "id": "node/1588740572"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Karlsbader Straße",
+        "highway": "bus_stop",
+        "bench": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6715233,
+          50.0868203
+        ]
+      },
+      "id": "node/1588740573"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lerchesberg",
+        "highway": "bus_stop",
+        "bench": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6809289,
+          50.0831904
+        ]
+      },
+      "id": "node/1588740574"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lerchesbergring",
+        "highway": "bus_stop",
+        "bench": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6793631,
+          50.0832675
+        ]
+      },
+      "id": "node/1588740577"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lerchesbergring",
+        "highway": "bus_stop",
+        "bench": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6786829,
+          50.0832959
+        ]
+      },
+      "id": "node/1588740578"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Stresemannallee/Mörfelder Landstraße",
+        "highway": "bus_stop",
+        "bench": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6713918,
+          50.0890731
+        ]
+      },
+      "id": "node/1588740579"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Stresemannallee/Gartenstraße",
+        "highway": "bus_stop",
+        "bench": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6696591,
+          50.0988842
+        ]
+      },
+      "id": "node/1599930681"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Galluspark",
+        "highway": "bus_stop",
+        "bench": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6363602,
+          50.0998222
+        ]
+      },
+      "id": "node/1684769125"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Galluspark",
+        "highway": "bus_stop",
+        "bench": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6371177,
+          50.1002453
+        ]
+      },
+      "id": "node/1684769127"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kleyerstraße",
+        "highway": "bus_stop",
+        "bench": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6304111,
+          50.0971859
+        ]
+      },
+      "id": "node/1685676106"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Friedrich-Ebert-Siedlung",
+        "highway": "bus_stop",
+        "bench": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6249093,
+          50.0948276
+        ]
+      },
+      "id": "node/1685852368"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Friedrich-Ebert-Siedlung",
+        "highway": "bus_stop",
+        "bench": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6249102,
+          50.0949897
+        ]
+      },
+      "id": "node/1685852388"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Altkönigstraße",
+        "highway": "bus_stop",
+        "bench": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6654418,
+          50.1208491
+        ]
+      },
+      "id": "node/1781001228"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Westend",
+        "highway": "bus_stop",
+        "bench": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6631005,
+          50.1181746
+        ]
+      },
+      "id": "node/1781001256"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Wöhlerstraße",
+        "highway": "bus_stop",
+        "bench": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6658581,
+          50.1173962
+        ]
+      },
+      "id": "node/1781001259"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Niedenau",
+        "highway": "bus_stop",
+        "bench": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6673908,
+          50.1168566
+        ]
+      },
+      "id": "node/1781544606"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Peterskirche",
+        "highway": "bus_stop",
+        "bench": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6838265,
+          50.1178765
+        ]
+      },
+      "id": "node/1781544607"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mitscherlichplatz",
+        "highway": "bus_stop",
+        "bench": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6656405,
+          50.1231539
+        ]
+      },
+      "id": "node/1781544609"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Westend",
+        "highway": "bus_stop",
+        "bench": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6630648,
+          50.118035
+        ]
+      },
+      "id": "node/1781544610"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Europaviertel West",
+        "highway": "bus_stop",
+        "bench": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6237525,
+          50.1077532
+        ]
+      },
+      "id": "node/2591298809"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Europagarten/Messe West",
+        "highway": "bus_stop",
+        "bench": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6365934,
+          50.1083288
+        ]
+      },
+      "id": "node/2591298825"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Europagarten/Messe West",
+        "highway": "bus_stop",
+        "bench": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6366921,
+          50.1080273
+        ]
+      },
+      "id": "node/2591298828"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Römischer Ring",
+        "highway": "bus_stop",
+        "bench": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6326417,
+          50.1087084
+        ]
+      },
+      "id": "node/2591298845"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Römischer Ring",
+        "highway": "bus_stop",
+        "bench": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6335488,
+          50.1086631
+        ]
+      },
+      "id": "node/2591298849"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Maastrichter Ring",
+        "highway": "bus_stop",
+        "bench": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6280721,
+          50.108512
+        ]
+      },
+      "id": "node/2591298853"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Maastrichter Ring",
+        "highway": "bus_stop",
+        "bench": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.628744,
+          50.1084294
+        ]
+      },
+      "id": "node/2591298876"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Europaviertel West",
+        "highway": "bus_stop",
+        "bench": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6240424,
+          50.1074528
+        ]
+      },
+      "id": "node/2591298883"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Alte Oper",
+        "highway": "bus_stop",
+        "bench": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6711052,
+          50.1157675
+        ]
+      },
+      "id": "node/2619090819"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Westbahnhof",
+        "highway": "bus_stop",
+        "bench": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6403136,
+          50.1190981
+        ]
+      },
+      "id": "node/2723802930"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Westbahnhof",
+        "highway": "bus_stop",
+        "bench": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6391264,
+          50.1198798
+        ]
+      },
+      "id": "node/2723802937"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Schöffenstraße",
+        "highway": "bus_stop",
+        "bench": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6149146,
+          50.0912169
+        ]
+      },
+      "id": "node/3212073779"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Erzbergerstraße",
+        "highway": "bus_stop",
+        "bench": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6140241,
+          50.0941594
+        ]
+      },
+      "id": "node/3212073780"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Eschenheimer Tor",
+        "highway": "bus_stop",
+        "bench": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6781324,
+          50.1177769
+        ]
+      },
+      "id": "node/3217158526"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Güterplatz",
+        "highway": "bus_stop",
+        "bench": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6559827,
+          50.1077117
+        ]
+      },
+      "id": "node/3217750441"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Platz der Republik",
+        "highway": "bus_stop",
+        "bench": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6593202,
+          50.1090982
+        ]
+      },
+      "id": "node/3217750447"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Schwalbacher Straße",
+        "highway": "bus_stop",
+        "bench": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6365467,
+          50.1023916
+        ]
+      },
+      "id": "node/3217750503"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Speyerer Straße",
+        "highway": "bus_stop",
+        "bench": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6507209,
+          50.1056526
+        ]
+      },
+      "id": "node/3217750504"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Wickerer Straße",
+        "highway": "bus_stop",
+        "bench": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6227018,
+          50.1010791
+        ]
+      },
+      "id": "node/3217750506"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Willy-Brandt-Platz",
+        "highway": "bus_stop",
+        "bench": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6736443,
+          50.1089587
+        ]
+      },
+      "id": "node/3217750507"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Freßgass",
+        "highway": "bus_stop",
+        "bench": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6725607,
+          50.1145651
+        ]
+      },
+      "id": "node/3220604287"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mönchhofstraße",
+        "highway": "bus_stop",
+        "bench": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6182517,
+          50.1004021
+        ]
+      },
+      "id": "node/3220604290"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Willy-Brandt-Platz",
+        "highway": "bus_stop",
+        "bench": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6744101,
+          50.1097109
+        ]
+      },
+      "id": "node/3220604297"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Weserstraße/Münchener Straße",
+        "highway": "bus_stop",
+        "bench": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.670065,
+          50.1078334
+        ]
+      },
+      "id": "node/3390674133"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Schwarzwaldstraße",
+        "highway": "bus_stop",
+        "bench": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6463502,
+          50.086713
+        ]
+      },
+      "id": "node/3392792266"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Schwarzwaldstraße",
+        "highway": "bus_stop",
+        "bench": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6468592,
+          50.0868916
+        ]
+      },
+      "id": "node/3392792267"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Güterplatz",
+        "highway": "bus_stop",
+        "bench": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6545511,
+          50.1069359
+        ]
+      },
+      "id": "node/3393440493"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Katharinenkreisel",
+        "highway": "bus_stop",
+        "bench": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6292095,
+          50.1152738
+        ]
+      },
+      "id": "node/3404239112"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Messeparkhaus",
+        "highway": "bus_stop",
+        "bench": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6209928,
+          50.1077795
+        ]
+      },
+      "id": "node/3404239119"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Messeparkhaus",
+        "highway": "bus_stop",
+        "bench": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6217341,
+          50.1080401
+        ]
+      },
+      "id": "node/3404239120"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bornwiesenweg",
+        "highway": "bus_stop",
+        "bench": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6803491,
+          50.1214856
+        ]
+      },
+      "id": "node/3404674643"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bornwiesenweg",
+        "highway": "bus_stop",
+        "bench": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6805522,
+          50.121838
+        ]
+      },
+      "id": "node/3404674644"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Eppsteiner Straße",
+        "highway": "bus_stop",
+        "bench": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6677957,
+          50.1203173
+        ]
+      },
+      "id": "node/3404674646"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Eschenheimer Tor",
+        "highway": "bus_stop",
+        "bench": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.680384,
+          50.1171098
+        ]
+      },
+      "id": "node/3404674647"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Unterweg",
+        "highway": "bus_stop",
+        "bench": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6844798,
+          50.119285
+        ]
+      },
+      "id": "node/3404674665"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Main-Neckar-Brücke",
+        "highway": "bus_stop",
+        "bench": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6544604,
+          50.0968885
+        ]
+      },
+      "id": "node/3405528609"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rotfeder-Ring",
+        "highway": "bus_stop",
+        "bench": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6562255,
+          50.098477
+        ]
+      },
+      "id": "node/3405528610"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Großer Hasenpfad Süd",
+        "highway": "bus_stop",
+        "bench": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6846738,
+          50.0910814
+        ]
+      },
+      "id": "node/3408258245"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Niersteiner Straße",
+        "highway": "bus_stop",
+        "bench": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6834362,
+          50.0925572
+        ]
+      },
+      "id": "node/3408258246"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Den Haager Straße",
+        "highway": "bus_stop",
+        "bench": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6511328,
+          50.1086685
+        ]
+      },
+      "id": "node/3408628912"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Güterplatz",
+        "highway": "bus_stop",
+        "bench": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6559829,
+          50.1071466
+        ]
+      },
+      "id": "node/3408628913"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ordnungsamt",
+        "highway": "bus_stop",
+        "bench": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6334824,
+          50.098699
+        ]
+      },
+      "id": "node/3408785379"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ordnungsamt",
+        "highway": "bus_stop",
+        "bench": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6331028,
+          50.0986807
+        ]
+      },
+      "id": "node/3408785380"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Beuthener Straße",
+        "highway": "bus_stop",
+        "bench": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6741036,
+          50.091393
+        ]
+      },
+      "id": "node/3410839799"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Beuthener Straße",
+        "highway": "bus_stop",
+        "bench": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6748404,
+          50.0914837
+        ]
+      },
+      "id": "node/3410839800"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Breslauer Straße",
+        "highway": "bus_stop",
+        "bench": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6771206,
+          50.0927462
+        ]
+      },
+      "id": "node/3410839801"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Breslauer Straße",
+        "highway": "bus_stop",
+        "bench": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6767835,
+          50.0928708
+        ]
+      },
+      "id": "node/3410839802"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kronberger Straße",
+        "highway": "bus_stop",
+        "bench": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6706115,
+          50.1211574
+        ]
+      },
+      "id": "node/3412616440"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rhonestraße",
+        "highway": "bus_stop",
+        "bench": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6245422,
+          50.0817822
+        ]
+      },
+      "id": "node/3415558759"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rhonestraße",
+        "highway": "bus_stop",
+        "bench": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6251824,
+          50.0819875
+        ]
+      },
+      "id": "node/3415558760"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Alte Oper",
+        "highway": "bus_stop",
+        "bench": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6692855,
+          50.1156828
+        ]
+      },
+      "id": "node/3428756213"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Roßmarkt",
+        "highway": "bus_stop",
+        "bench": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6751806,
+          50.1119258
+        ]
+      },
+      "id": "node/3428756219"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Taunusanlage",
+        "highway": "bus_stop",
+        "bench": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6705293,
+          50.1136008
+        ]
+      },
+      "id": "node/3428756222"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Melibocusstraße",
+        "highway": "bus_stop",
+        "bench": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6405556,
+          50.0819134
+        ]
+      },
+      "id": "node/3434152458"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Melibocusstraße",
+        "highway": "bus_stop",
+        "bench": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6400006,
+          50.0819625
+        ]
+      },
+      "id": "node/3434152459"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Platz der Republik",
+        "highway": "bus_stop",
+        "bench": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6622911,
+          50.1088136
+        ]
+      },
+      "id": "node/3468035049"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Achenbachstraße",
+        "highway": "bus_stop",
+        "bench": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6768698,
+          50.0974222
+        ]
+      },
+      "id": "node/3484038943"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Achenbachstraße",
+        "highway": "bus_stop",
+        "bench": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6765703,
+          50.0975577
+        ]
+      },
+      "id": "node/3484038944"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Burnitzstraße",
+        "highway": "bus_stop",
+        "bench": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6734248,
+          50.0971566
+        ]
+      },
+      "id": "node/3484038945"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Burnitzstraße",
+        "highway": "bus_stop",
+        "bench": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6731648,
+          50.0971587
+        ]
+      },
+      "id": "node/3484038946"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Holbein-Schule",
+        "highway": "bus_stop",
+        "bench": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6804272,
+          50.0993437
+        ]
+      },
+      "id": "node/3484038947"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bockenheimer Warte",
+        "highway": "bus_stop",
+        "bench": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6509612,
+          50.1210239
+        ]
+      },
+      "id": "node/3979849923"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Haus 11",
+        "highway": "bus_stop",
+        "bench": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.662999,
+          50.0958713
+        ]
+      },
+      "id": "node/4106620409"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Haus 11",
+        "highway": "bus_stop",
+        "bench": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6628758,
+          50.0959281
+        ]
+      },
+      "id": "node/4106620410"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Haus 15A",
+        "highway": "bus_stop",
+        "bench": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6637822,
+          50.0942776
+        ]
+      },
+      "id": "node/4106620411"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Haus 15A",
+        "highway": "bus_stop",
+        "bench": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6636532,
+          50.0943776
+        ]
+      },
+      "id": "node/4106620412"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Haus 32C",
+        "highway": "bus_stop",
+        "bench": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6582843,
+          50.0942615
+        ]
+      },
+      "id": "node/4106620414"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Haus 32E",
+        "highway": "bus_stop",
+        "bench": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.659183,
+          50.0934924
+        ]
+      },
+      "id": "node/4106620415"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Haus 54",
+        "highway": "bus_stop",
+        "bench": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6610111,
+          50.0916578
+        ]
+      },
+      "id": "node/4106620416"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Haus 68",
+        "highway": "bus_stop",
+        "bench": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6556537,
+          50.092948
+        ]
+      },
+      "id": "node/4106620417"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Haus 8",
+        "highway": "bus_stop",
+        "bench": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.664346,
+          50.0966515
+        ]
+      },
+      "id": "node/4106620418"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Haus 8",
+        "highway": "bus_stop",
+        "bench": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6642613,
+          50.0967194
+        ]
+      },
+      "id": "node/4106620419"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Haus 93",
+        "highway": "bus_stop",
+        "bench": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6507004,
+          50.0922615
+        ]
+      },
+      "id": "node/4106620420"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Haus 95",
+        "highway": "bus_stop",
+        "bench": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6489251,
+          50.0912757
+        ]
+      },
+      "id": "node/4106620421"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Friedrichsheim",
+        "highway": "bus_stop",
+        "bench": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6489169,
+          50.0920475
+        ]
+      },
+      "id": "node/4106623794"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bockenheimer Warte",
+        "highway": "bus_stop",
+        "bench": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6540422,
+          50.1194879
+        ]
+      },
+      "id": "node/4385231123"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Platz der Einheit",
+        "highway": "bus_stop",
+        "bench": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.653165,
+          50.1108613
+        ]
+      },
+      "id": "node/4734868795"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Platz der Einheit",
+        "highway": "bus_stop",
+        "bench": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6534728,
+          50.1106798
+        ]
+      },
+      "id": "node/4734868797"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "François-Mitterrand-Platz",
+        "highway": "bus_stop",
+        "bench": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6645168,
+          50.1108639
+        ]
+      },
+      "id": "node/4734868799"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Leonardo-da-Vinci-Allee",
+        "highway": "bus_stop",
+        "bench": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6277156,
+          50.1130756
+        ]
+      },
+      "id": "node/4829633170"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Leonardo-da-Vinci-Allee",
+        "highway": "bus_stop",
+        "bench": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6281009,
+          50.1139018
+        ]
+      },
+      "id": "node/5206159379"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Triftstraße",
+        "highway": "bus_stop",
+        "bench": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6507578,
+          50.0871701
+        ]
+      },
+      "id": "node/5206768681"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Weserstraße/Münchener Straße",
+        "highway": "bus_stop",
+        "bench": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6704506,
+          50.1080603
+        ]
+      },
+      "id": "node/5208074079"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Frauenhofstraße",
+        "highway": "bus_stop",
+        "bench": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6492121,
+          50.087216
+        ]
+      },
+      "id": "node/5217971766"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Schwalbacher Straße",
+        "highway": "bus_stop",
+        "bench": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6360593,
+          50.1021878
+        ]
+      },
+      "id": "node/5219592680"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Platz der Republik",
+        "highway": "bus_stop",
+        "bench": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6613975,
+          50.10891
+        ]
+      },
+      "id": "node/5219648676"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bockenheimer Warte",
+        "highway": "bus_stop",
+        "bench": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6535119,
+          50.1194462
+        ]
+      },
+      "id": "node/5243985828"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Niederräder Landstraße",
+        "highway": "bus_stop",
+        "bench": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6507733,
+          50.0884296
+        ]
+      },
+      "id": "node/7122748055"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gerauer Straße",
+        "highway": "bus_stop",
+        "bench": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6445199,
+          50.0832684
+        ]
+      },
+      "id": "node/7549603770"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gerauer Straße",
+        "highway": "bus_stop",
+        "bench": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6446853,
+          50.0832425
+        ]
+      },
+      "id": "node/7549603772"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Güntherstraße",
+        "highway": "bus_stop",
+        "bench": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6455082,
+          50.0816657
+        ]
+      },
+      "id": "node/7549603774"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Güntherstraße",
+        "highway": "bus_stop",
+        "bench": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6458024,
+          50.081426
+        ]
+      },
+      "id": "node/7549603776"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Frauenhofstraße",
+        "highway": "bus_stop",
+        "bench": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.649023,
+          50.0874156
+        ]
+      },
+      "id": "node/7549713351"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Schwarzwaldstraße",
+        "highway": "bus_stop",
+        "bench": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6465205,
+          50.0869707
+        ]
+      },
+      "id": "node/7549713353"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bruchfeldplatz",
+        "highway": "bus_stop",
+        "bench": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6442628,
+          50.0869135
+        ]
+      },
+      "id": "node/7549713355"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kelsterbacher Straße",
+        "highway": "bus_stop",
+        "bench": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6434591,
+          50.0891544
+        ]
+      },
+      "id": "node/7549713357"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kelsterbacher Straße",
+        "highway": "bus_stop",
+        "bench": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6435032,
+          50.0893636
+        ]
+      },
+      "id": "node/7549713358"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Im Mainfeld",
+        "highway": "bus_stop",
+        "bench": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6406653,
+          50.0901574
+        ]
+      },
+      "id": "node/7549713361"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Im Mainfeld",
+        "highway": "bus_stop",
+        "bench": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6408342,
+          50.0901657
+        ]
+      },
+      "id": "node/7549713362"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Schwanheimer Straße",
+        "highway": "bus_stop",
+        "bench": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6380639,
+          50.0881083
+        ]
+      },
+      "id": "node/7549713365"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Schwanheimer Straße",
+        "highway": "bus_stop",
+        "bench": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6379388,
+          50.0880838
+        ]
+      },
+      "id": "node/7549713366"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hahnstraße",
+        "highway": "bus_stop",
+        "bench": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6331283,
+          50.0843832
+        ]
+      },
+      "id": "node/7549713369"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Saonestraße",
+        "highway": "bus_stop",
+        "bench": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.63346,
+          50.0822869
+        ]
+      },
+      "id": "node/7549713371"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Saonestraße",
+        "highway": "bus_stop",
+        "bench": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6335381,
+          50.0825963
+        ]
+      },
+      "id": "node/7549713372"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Karmeliterkloster",
+        "highway": "bus_stop",
+        "bench": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.677847,
+          50.1100352
+        ]
+      },
+      "id": "node/7551682629"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Karmeliterkloster",
+        "highway": "bus_stop",
+        "bench": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6779175,
+          50.1099782
+        ]
+      },
+      "id": "node/7551682630"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Briefzentrum",
+        "highway": "bus_stop",
+        "bench": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.636182,
+          50.0934008
+        ]
+      },
+      "id": "node/8228765106"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Stresemann-/Kennedyallee",
+        "highway": "bus_stop",
+        "bench": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6721785,
+          50.0986513
+        ]
+      },
+      "id": "node/8331333337"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Stresemann-/Kennedyallee",
+        "highway": "bus_stop",
+        "bench": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6718433,
+          50.0986581
+        ]
+      },
+      "id": "node/8331333338"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Stephensonstraße",
+        "highway": "bus_stop",
+        "bench": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6428982,
+          50.108337
+        ]
+      },
+      "id": "node/8477197672"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Stephensonstraße",
+        "highway": "bus_stop",
+        "bench": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6426514,
+          50.1086346
+        ]
+      },
+      "id": "node/8477197673"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kleyerstraße",
+        "highway": "bus_stop",
+        "bench": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6274122,
+          50.0960159
+        ]
+      },
+      "id": "node/8492004690"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heinrich-Hoffmann-Straße/Blutspendedienst",
+        "highway": "bus_stop",
+        "bench": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6528385,
+          50.0928716
+        ]
+      },
+      "id": "node/8495389753"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Heinrich-Hoffmann-Straße/Blutspendedienst",
+        "highway": "bus_stop",
+        "bench": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6527258,
+          50.0926849
+        ]
+      },
+      "id": "node/8495389754"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Universitätsklinikum",
+        "highway": "bus_stop",
+        "bench": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.66092,
+          50.0968094
+        ]
+      },
+      "id": "node/8495399396"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Stresemannallee/Gartenstraße Nachtbus und Schienenersatzverkehr",
+        "highway": "bus_stop",
+        "bench": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6665828,
+          50.0993932
+        ]
+      },
+      "id": "node/8495408918"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vogelweidstraße",
+        "highway": "bus_stop",
+        "bench": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6658425,
+          50.0978426
+        ]
+      },
+      "id": "node/8495415606"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Stresemannallee/Gartenstraße",
+        "highway": "bus_stop",
+        "bench": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6681458,
+          50.0989476
+        ]
+      },
+      "id": "node/8495419683"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Baseler Platz",
+        "highway": "bus_stop",
+        "bench": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6649835,
+          50.1049353
+        ]
+      },
+      "id": "node/8498468894"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fernbusterminal",
+        "highway": "bus_stop",
+        "bench": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6629868,
+          50.1046577
+        ]
+      },
+      "id": "node/8502102097"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fernbusterminal",
+        "highway": "bus_stop",
+        "bench": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6628704,
+          50.10438
+        ]
+      },
+      "id": "node/8502102098"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fernbusterminal",
+        "highway": "bus_stop",
+        "bench": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6631262,
+          50.1044798
+        ]
+      },
+      "id": "node/8502102099"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fernbusterminal",
+        "highway": "bus_stop",
+        "bench": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6633835,
+          50.1048144
+        ]
+      },
+      "id": "node/8502102100"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fernbusterminal",
+        "highway": "bus_stop",
+        "bench": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6626794,
+          50.1045363
+        ]
+      },
+      "id": "node/8502102101"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fernbusterminal",
+        "highway": "bus_stop",
+        "bench": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6624846,
+          50.1044594
+        ]
+      },
+      "id": "node/8502102102"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fernbusterminal",
+        "highway": "bus_stop",
+        "bench": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6628937,
+          50.1046209
+        ]
+      },
+      "id": "node/8502102103"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fernbusterminal",
+        "highway": "bus_stop",
+        "bench": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6626232,
+          50.104285
+        ]
+      },
+      "id": "node/8502102104"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fernbusterminal",
+        "highway": "bus_stop",
+        "bench": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6631866,
+          50.1047366
+        ]
+      },
+      "id": "node/8502102105"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fernbusterminal",
+        "highway": "bus_stop",
+        "bench": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6633858,
+          50.1045836
+        ]
+      },
+      "id": "node/8502102106"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fernbusterminal",
+        "highway": "bus_stop",
+        "bench": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6625833,
+          50.1044984
+        ]
+      },
+      "id": "node/8502102107"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fernbusterminal",
+        "highway": "bus_stop",
+        "bench": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6630837,
+          50.104696
+        ]
+      },
+      "id": "node/8502102108"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fernbusterminal",
+        "highway": "bus_stop",
+        "bench": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6632831,
+          50.1047736
+        ]
+      },
+      "id": "node/8502102109"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fernbusterminal",
+        "highway": "bus_stop",
+        "bench": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.662795,
+          50.104582
+        ]
+      },
+      "id": "node/8502102110"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Grüneburgweg",
+        "highway": "bus_stop",
+        "bench": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6757841,
+          50.1218013
+        ]
+      },
+      "id": "node/8502289976"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Grüneburgweg",
+        "highway": "bus_stop",
+        "bench": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6754937,
+          50.1215489
+        ]
+      },
+      "id": "node/8502289977"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Eschenheimer Tor",
+        "highway": "bus_stop",
+        "bench": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6787352,
+          50.1181059
+        ]
+      },
+      "id": "node/8502292684"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Eschenheimer Tor",
+        "highway": "bus_stop",
+        "bench": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6789424,
+          50.1182104
+        ]
+      },
+      "id": "node/8502292685"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Römer/Paulskirche",
+        "highway": "bus_stop",
+        "bench": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6818791,
+          50.1118044
+        ]
+      },
+      "id": "node/8517856123"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Karmeliterkloster",
+        "highway": "bus_stop",
+        "bench": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6773922,
+          50.1102824
+        ]
+      },
+      "id": "node/8517856126"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Freßgass'/Hauptwache",
+        "highway": "bus_stop",
+        "bench": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6764389,
+          50.1140105
+        ]
+      },
+      "id": "node/8530031871"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Südbahnhof",
+        "highway": "bus_stop",
+        "bench": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6839497,
+          50.099147
+        ]
+      },
+      "id": "node/8702259221"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Südbahnhof",
+        "highway": "bus_stop",
+        "bench": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6842596,
+          50.0992877
+        ]
+      },
+      "id": "node/8702259222"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Römer/Paulskirche",
+        "highway": "bus_stop",
+        "bench": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6812484,
+          50.1115812
+        ]
+      },
+      "id": "node/8776885337"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Willy-Brandt-Platz",
+        "highway": "bus_stop",
+        "bench": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6721316,
+          50.1088599
+        ]
+      },
+      "id": "node/8776943288"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Südbahnhof/Schweizer Straße",
+        "highway": "bus_stop",
+        "bench": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6839788,
+          50.097808
+        ]
+      },
+      "id": "node/9074134096"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Galluswarte",
+        "highway": "bus_stop",
+        "bench": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6450634,
+          50.1034965
+        ]
+      },
+      "id": "node/9284068017"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Galluswarte",
+        "highway": "bus_stop",
+        "bench": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6453706,
+          50.103269
+        ]
+      },
+      "id": "node/9284068018"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Galluswarte",
+        "highway": "bus_stop",
+        "bench": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6453015,
+          50.1036827
+        ]
+      },
+      "id": "node/9284068019"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Festhalle/Messe",
+        "highway": "bus_stop",
+        "bench": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6541749,
+          50.1121208
+        ]
+      },
+      "id": "node/9288603225"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Niederrad Bahnhof",
+        "highway": "bus_stop",
+        "bench": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6372258,
+          50.0806938
+        ]
+      },
+      "id": "node/9309086407"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Niederrad Bahnhof",
+        "highway": "bus_stop",
+        "bench": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6370043,
+          50.0809307
+        ]
+      },
+      "id": "node/9309086408"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Niederrad Bahnhof",
+        "highway": "bus_stop",
+        "bench": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6375881,
+          50.0811243
+        ]
+      },
+      "id": "node/9309086409"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Varrentrappstraße",
+        "highway": "bus_stop",
+        "bench": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6466016,
+          50.1162616
+        ]
+      },
+      "id": "node/9373407465"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Varrentrappstraße",
+        "highway": "bus_stop",
+        "bench": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6464034,
+          50.1161988
+        ]
+      },
+      "id": "node/9373407466"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hohenstaufenstraße",
+        "highway": "bus_stop",
+        "bench": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6578354,
+          50.110544
+        ]
+      },
+      "id": "node/9448595144"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hohenstaufenstraße",
+        "highway": "bus_stop",
+        "bench": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6580138,
+          50.1109718
+        ]
+      },
+      "id": "node/9448595145"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Stresemannallee/Gartenstraße",
+        "highway": "bus_stop",
+        "bench": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6697783,
+          50.0980491
+        ]
+      },
+      "id": "node/9556095111"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hauptbahnhof/Pforzheimer Straße",
+        "bench": "no",
+        "highway": "bus_stop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6633427,
+          50.104564
+        ]
+      },
+      "id": "node/9588469746"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Niederräder Landstraße",
+        "highway": "bus_stop",
+        "bench": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6522141,
+          50.089166
+        ]
+      },
+      "id": "node/9689543978"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hahnstraße",
+        "highway": "bus_stop",
+        "bench": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.633088,
+          50.0838609
+        ]
+      },
+      "id": "node/9817405301"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hauptbahnhof/Fernbusterminal",
+        "highway": "bus_stop",
+        "bench": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.66334,
+          50.1051231
+        ]
+      },
+      "id": "node/9834198018"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hauptbahnhof/Fernbusterminal",
+        "highway": "bus_stop",
+        "bench": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6620002,
+          50.1051231
+        ]
+      },
+      "id": "node/9834198021"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hauptbahnhof/Fernbusterminal",
+        "highway": "bus_stop",
+        "bench": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6620096,
+          50.1043275
+        ]
+      },
+      "id": "node/9834198022"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hauptbahnhof/Fernbusterminal",
+        "highway": "bus_stop",
+        "bench": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6618044,
+          50.1045378
+        ]
+      },
+      "id": "node/9834198023"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rotfeder-Ring",
+        "highway": "bus_stop",
+        "bench": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6560357,
+          50.097834
+        ]
+      },
+      "id": "node/9837255532"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hauptbahnhof Südseite",
+        "highway": "bus_stop",
+        "bench": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6644819,
+          50.1058259
+        ]
+      },
+      "id": "node/11097724982"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bockenheimer Warte",
+        "highway": "bus_stop",
+        "bench": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6524705,
+          50.1199645
+        ]
+      },
+      "id": "node/11189913663"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bockenheimer Warte",
+        "highway": "bus_stop",
+        "bench": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6512904,
+          50.1203101
+        ]
+      },
+      "id": "node/11238545585"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rebstöcker Straße",
+        "highway": "bus_stop",
+        "bench": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6283097,
+          50.1014552
+        ]
+      },
+      "id": "node/11255909119"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rebstöcker Straße",
+        "highway": "bus_stop",
+        "bench": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.629121,
+          50.1017006
+        ]
+      },
+      "id": "node/11255909120"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bockenheimer Warte",
+        "highway": "bus_stop",
+        "bench": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6512198,
+          50.1201692
+        ]
+      },
+      "id": "node/11396702457"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Niederräder Landstraße",
+        "bench": "yes",
+        "highway": "bus_stop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6515074,
+          50.0886771
+        ]
+      },
+      "id": "node/11634494808"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Adalbert-/Schloßstraße",
+        "bench": "yes",
+        "highway": "bus_stop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6444031,
+          50.1186258
+        ]
+      },
+      "id": "node/12071116663"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bench": "no",
+        "highway": "bus_stop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6782401,
+          50.1110032
+        ]
+      },
+      "id": "node/12329487341"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hauptbahnhof/Fernbusterminal",
+        "highway": "bus_stop",
+        "bench": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.662129,
+          50.1050367
+        ]
+      },
+      "id": "node/12435650243"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hauptbahnhof/Münchener Straße",
+        "highway": "bus_stop",
+        "bench": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6659767,
+          50.1069257
+        ]
+      },
+      "id": "node/12511689599"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hauptbahnhof/Münchener Straße",
+        "highway": "bus_stop",
+        "bench": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6666973,
+          50.1069829
+        ]
+      },
+      "id": "node/12511693401"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Schulbus",
+        "highway": "bus_stop",
+        "bench": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6259743,
+          50.0995834
+        ]
+      },
+      "id": "node/12688143669"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lerchesberg",
+        "highway": "bus_stop",
+        "bench": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6810639,
+          50.0831264
+        ]
+      },
+      "id": "node/12757221819"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Südbahnhof",
+        "highway": "bus_stop",
+        "bench": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6845506,
+          50.0994161
+        ]
+      },
+      "id": "node/12762184371"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hellerhofstraße",
+        "highway": "bus_stop",
+        "bench": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6456314,
+          50.1053369
+        ]
+      },
+      "id": "node/12803737105"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Willy-Brandt-Platz",
+        "highway": "bus_stop",
+        "bench": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6740393,
+          50.1090033
+        ]
+      },
+      "id": "node/12842422726"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Niederrad Bahnhof",
+        "bench": "yes",
+        "highway": "bus_stop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6371662,
+          50.0807935
+        ]
+      },
+      "id": "node/12919391813"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gerauer Straße",
+        "highway": "bus_stop",
+        "bench": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6451377,
+          50.0839346
+        ]
+      },
+      "id": "node/12920864650"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gerauer Straße",
+        "highway": "bus_stop",
+        "bench": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6450979,
+          50.084004
+        ]
+      },
+      "id": "node/12920864652"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Niederrad Bahnhof",
+        "bench": "yes",
+        "highway": "bus_stop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6371756,
+          50.0807812
+        ]
+      },
+      "id": "node/12944865167"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Odenwaldstraße",
+        "highway": "bus_stop",
+        "bench": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6417274,
+          50.0864032
+        ]
+      },
+      "id": "node/13043301881"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Odenwaldstraße",
+        "highway": "bus_stop",
+        "bench": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6424322,
+          50.0865609
+        ]
+      },
+      "id": "node/13043301882"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "DFB-Campus",
+        "highway": "bus_stop",
+        "bench": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6511936,
+          50.0835145
+        ]
+      },
+      "id": "node/13043342929"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "DFB-Campus",
+        "highway": "bus_stop",
+        "bench": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6513222,
+          50.0830695
+        ]
+      },
+      "id": "node/13043342932"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Schwanthalerstraße",
+        "highway": "bus_stop",
+        "bench": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6811371,
+          50.1011486
+        ]
+      },
+      "id": "node/13095072615"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Schwanthalerstraße",
+        "highway": "bus_stop",
+        "bench": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6816078,
+          50.1008441
+        ]
+      },
+      "id": "node/13095072616"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Südbahnhof",
+        "highway": "bus_stop",
+        "bench": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6836463,
+          50.0990054
+        ]
+      },
+      "id": "node/13250552295"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Südbahnhof/Schweizer Straße",
+        "highway": "bus_stop",
+        "bench": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6836631,
+          50.0982573
+        ]
+      },
+      "id": "node/13287133835"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Südbahnhof/Schweizer Straße",
+        "highway": "bus_stop",
+        "bench": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6835725,
+          50.0979575
+        ]
+      },
+      "id": "node/13287133836"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Schweizer Straße/Mörfelder Landstraße",
+        "highway": "platform",
+        "bench": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6842183,
+          50.0966792
+        ]
+      },
+      "id": "node/13288041549"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Schweizer Straße/Mörfelder Landstraße",
+        "highway": "bus_stop",
+        "bench": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6839777,
+          50.0964784
+        ]
+      },
+      "id": "node/13288041550"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Oppenheimer Landstraße",
+        "highway": "bus_stop",
+        "bench": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6813891,
+          50.0953548
+        ]
+      },
+      "id": "node/13288367431"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Oppenheimer Landstraße",
+        "highway": "bus_stop",
+        "bench": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6806439,
+          50.094851
+        ]
+      },
+      "id": "node/13288367432"
+    }
+  ]
+}

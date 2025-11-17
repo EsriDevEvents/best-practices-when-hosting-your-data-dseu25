@@ -1,0 +1,16 @@
+{
+  "name": "buildings-inspection-app",
+  "version": "1.0.0",
+  "description": "",
+  "license": "Apache-2.0",
+  "author": "Raul Jimenez",
+  "type": "commonjs",
+  "main": "main.js",
+  "scripts": {
+    "start": "npx vite",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@arcgis/map-components": "^4.34.9"
+  }
+}

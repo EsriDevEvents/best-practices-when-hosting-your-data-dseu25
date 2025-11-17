@@ -1,0 +1,17 @@
+{
+  "name": "leaflet-geocoding-control",
+  "version": "1.0.0",
+  "description": "",
+  "license": "Apache-2.0",
+  "author": "Raul Jimenez",
+  "type": "commonjs",
+  "main": "main.js",
+  "scripts": {
+    "start": "npx vite",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "ol": "^10.7.0",
+    "ol-mapbox-style": "^13.1.1"
+  }
+}

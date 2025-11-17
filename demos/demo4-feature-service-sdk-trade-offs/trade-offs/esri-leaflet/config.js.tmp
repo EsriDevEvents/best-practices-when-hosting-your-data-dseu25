@@ -1,0 +1,5 @@
+const ARCGIS_APIKEY = "YOUR_API_KEY_HERE";
+
+export { 
+  ARCGIS_APIKEY
+};

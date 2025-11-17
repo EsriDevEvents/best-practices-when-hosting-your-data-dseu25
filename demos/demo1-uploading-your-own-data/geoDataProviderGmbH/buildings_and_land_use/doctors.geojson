@@ -1,0 +1,2038 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "healthcare": "doctor",
+        "name": "Ärztehaus Töngesgasse",
+        "website": "http://aliza.name",
+        "opening_hours": "Mo",
+        "phone": "(733) 569-7598",
+        "healthcare_speciality": "pathology"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6840085,
+          50.1135282
+        ]
+      },
+      "id": "node/633240008"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "healthcare": "doctor",
+        "name": "Verhaltenstherapie-Ambulanz",
+        "website": "https://davion.net",
+        "opening_hours": "16:00-18:00; We 09:00-11:00; Fr 09:00-14:00",
+        "phone": "1-350-199-2769",
+        "healthcare_speciality": "otolaryngology"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6476099,
+          50.1159264
+        ]
+      },
+      "id": "node/998952018"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "healthcare": "doctor",
+        "name": "Dr. Anette Heinz",
+        "website": "https://www.augenarzt-heinz.de/",
+        "opening_hours": "16:00-19:00; We",
+        "phone": "1-269-189-9064",
+        "healthcare_speciality": "ophthalmology"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6620379,
+          50.1199144
+        ]
+      },
+      "id": "node/1274670309"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "healthcare": "doctor",
+        "name": "Dr. med. Brigitte Scharz",
+        "opening_hours": "Mo-Th 09:00-12:00,15:00-17:00; We 09:00-12:00; Fr 09:00-14:00",
+        "phone": "+49 69 6702787",
+        "website": "https://jordane.info",
+        "healthcare_speciality": "psychiatry;child_psychiatry;psychotherapist"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6388672,
+          50.0839377
+        ]
+      },
+      "id": "node/1472235131"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "healthcare": "doctor",
+        "name": "Lang-Wiener",
+        "phone": "+49 69 236770",
+        "website": "https://annabelle.name",
+        "opening_hours": "Mo-Th 09:00-17:30; Fr 09:00-15.:30",
+        "healthcare_speciality": "general"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6601883,
+          50.1012253
+        ]
+      },
+      "id": "node/1552868633"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "healthcare": "doctor",
+        "name": "Dr. Frömel Orthopäde",
+        "opening_hours": "Mo-Th 09:00-12:00, 14:00-17:00; Fr 09:00-14:00 || \"nach Vereinbarung\"",
+        "phone": "+49 69 172817",
+        "website": "https://www.orthopaede-frankfurt-westend.de/",
+        "healthcare_speciality": "orthopaedics"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6618743,
+          50.1181468
+        ]
+      },
+      "id": "node/1861195839"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "healthcare": "doctor",
+        "name": "YUNDÉ aesthetic surgery",
+        "phone": "+49 69 25751347",
+        "website": "http://www.yunde.de",
+        "opening_hours": "13:30-17:30; We 08:00-14:30; PH off",
+        "healthcare_speciality": "plastic_surgery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6840942,
+          50.1142486
+        ]
+      },
+      "id": "node/2323491292"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "healthcare": "doctor",
+        "name": "Praxis Dr. Shaw Psychotherapie- & Psychologie-Praxis Frankfurt",
+        "phone": "+49 69 57707753",
+        "website": "https://www.praxis-dr-shaw.de/team-privatpraxis-psychotherapie-frankfurt.php",
+        "opening_hours": "13:30-17:00; Fr 09:00-13:00",
+        "healthcare_speciality": "psychotherapist;psychology"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6757255,
+          50.1157935
+        ]
+      },
+      "id": "node/2694402422"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "healthcare": "doctor",
+        "name": "Anna Gati Fabry",
+        "website": "http://akeem.name",
+        "opening_hours": "Mo",
+        "phone": "921-887-3682 x192",
+        "healthcare_speciality": "psychotherapist;psychology"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6746107,
+          50.1207437
+        ]
+      },
+      "id": "node/2970680832"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "healthcare": "doctor",
+        "name": "Augenarzt Dr. Lakos",
+        "opening_hours": "Mo-Th 08:00-12:00, Mo,Tu,Th 14:00-17:00, Fr 08:00-13:00",
+        "website": "http://waylon.net",
+        "phone": "223.214.1196",
+        "healthcare_speciality": "ophthalmology"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.647531,
+          50.0849246
+        ]
+      },
+      "id": "node/3231234888"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "healthcare": "doctor",
+        "name": "Brustzentrum am Opernplatz Frankfurt",
+        "phone": "+49 69 24754700",
+        "website": "http://www.opernplatz-brustzentrum.de",
+        "opening_hours": "Su",
+        "healthcare_speciality": "otolaryngology"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6811277,
+          50.1171315
+        ]
+      },
+      "id": "node/3273469061"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "healthcare": "doctor",
+        "name": "Frauenärzte Hilpert, Ordu, Sabet",
+        "phone": "+49 69 635441",
+        "website": "https://www.frauenarzt-sachsenhausen.de/",
+        "opening_hours": "Tu",
+        "healthcare_speciality": "gynaecology"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.676627,
+          50.1026591
+        ]
+      },
+      "id": "node/3273484433"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "healthcare": "doctor",
+        "name": "Dr. med. Eva Rappen-Cremer",
+        "opening_hours": "Mo 08:30-12:30; Tu 08:30-12:30,15:00-17:00; We 08:30-12:30; Th 08:30-12:30,15:00-17:00; Fr 08:30-12:00",
+        "phone": "+49 69 705454",
+        "website": "http://praxis-rappen-cremer.de/",
+        "healthcare_speciality": "trauma"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.644965,
+          50.118342
+        ]
+      },
+      "id": "node/3373116157"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "healthcare": "doctor",
+        "name": "Michaela Hubracht",
+        "website": "http://concepcion.name",
+        "opening_hours": "Fr 08:30-12:00",
+        "phone": "(810) 759-4886",
+        "healthcare_speciality": "psychotherapist;psychology"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6795868,
+          50.1017527
+        ]
+      },
+      "id": "node/3732880311"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "healthcare": "doctor",
+        "name": "Dr. med. Julia Seiler",
+        "opening_hours": "Mo-Fr 09:00-13:00; Tu 15:00-17:00; Th 15:00-17:00 || \"nach Vereinbarung\"",
+        "phone": "+49 69 722272",
+        "website": "https://www.augenarzt-frankfurt.de/",
+        "healthcare_speciality": "ophthalmology"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.665224,
+          50.1188701
+        ]
+      },
+      "id": "node/3803132656"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "healthcare": "doctor",
+        "name": "Radiomedicum Gemeinschaftspraxis für Radiologie und Nuklearmedizin",
+        "opening_hours": "Mo-Fr 08:00-16:00",
+        "website": "https://www.radiomedicum.de",
+        "phone": "300.766.2291 x145",
+        "healthcare_speciality": "diabetology;internal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6508248,
+          50.1052819
+        ]
+      },
+      "id": "node/3807113204"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "healthcare": "doctor",
+        "name": "Dr. med. Bushoven",
+        "opening_hours": "Mo,Th 15:00-18:00; Tu,Fr 09:00-13:00",
+        "website": "https://abelardo.net",
+        "phone": "571.730.4466",
+        "healthcare_speciality": "cardiology"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6501134,
+          50.0886466
+        ]
+      },
+      "id": "node/3826128557"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "healthcare": "doctor",
+        "name": "Orthopädicum",
+        "opening_hours": "Mo-Th 07:30-18:00; Fr 07:30-15:00",
+        "website": "https://www.orthopaedicum-frankfurt.de",
+        "phone": "023.809.9800",
+        "healthcare_speciality": "orthopaedics"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6799948,
+          50.1184091
+        ]
+      },
+      "id": "node/3993814790"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "healthcare": "doctor",
+        "name": "Dr. Hegner",
+        "opening_hours": "Mo-Fr 09:00-10:00 open \"Sprechstunde\"",
+        "website": "http://jeff.biz",
+        "phone": "1-106-303-3617 x077",
+        "healthcare_speciality": "physiotherapy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.672141,
+          50.1206638
+        ]
+      },
+      "id": "node/4019451859"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "healthcare": "doctor",
+        "name": "Dermasthetics, Institut für schöne und gesunde Haut",
+        "phone": "+49 69-92020595",
+        "website": "https://www.dermasthetics.de/",
+        "opening_hours": "Mo",
+        "healthcare_speciality": "dermatology"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6738452,
+          50.1145482
+        ]
+      },
+      "id": "node/4267794990"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "healthcare": "doctor",
+        "name": "Liebfrauenarztpraxis",
+        "opening_hours": "Sa,Su,PH off; Mo,Tu,Th 08:00-17:00; We,Fr 08:00-14:00",
+        "website": "https://www.liebfrauenarzt.de",
+        "phone": "821.112.6503 x80659",
+        "healthcare_speciality": "gynaecology"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6817845,
+          50.1125555
+        ]
+      },
+      "id": "node/4401779104"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "healthcare": "doctor",
+        "name": "Endokrinilogikum",
+        "opening_hours": "Mo-Fr 08:00-13:00, Mo,Tu 14:00-17:00, Th 14:30-17:00",
+        "website": "https://presley.biz",
+        "phone": "819-303-9652 x2744",
+        "healthcare_speciality": "urology"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6685454,
+          50.1000878
+        ]
+      },
+      "id": "node/4716998195"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "healthcare": "doctor",
+        "name": "Ärtzlicher Bereitschaftsdienst",
+        "opening_hours": "Mo,Tu,Th 19:00-24:00; We,Fr 14:00-24:00; Sa 08:00-24:00; PH,Su 08:00-24:00",
+        "website": "https://orpha.org",
+        "phone": "1-523-821-6796",
+        "healthcare_speciality": "psychotherapist;psychology"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6612246,
+          50.0962845
+        ]
+      },
+      "id": "node/4746563621"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "healthcare": "doctor",
+        "name": "Augenärzte am Städel",
+        "opening_hours": "Mo,Tu,Th 08:30-12:00,14:00-17:00; We,Fr 08:30-12:00",
+        "phone": "+49 69 962 372 90",
+        "website": "https://augenaerzte-am-staedel.de",
+        "healthcare_speciality": "ophthalmology"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6765771,
+          50.1026331
+        ]
+      },
+      "id": "node/5033228121"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "healthcare": "doctor",
+        "name": "Kinderarztpraxis Dr. Sabine Wüllenweber-Oechsler",
+        "phone": "+4969673246",
+        "website": "https://cassidy.com",
+        "opening_hours": "14:00-16:00; Tu 09:00-12:00",
+        "healthcare_speciality": "paediatrics"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6425094,
+          50.0866269
+        ]
+      },
+      "id": "node/5042173123"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "healthcare": "doctor",
+        "name": "radiomedicum Gemeinschaftspraxis für Radiologie und Nuklearmedizin",
+        "opening_hours": "Mo-Fr 08:00-16:00",
+        "phone": "+49 69 25627939-0",
+        "website": "https://www.radiomedicum.de/",
+        "healthcare_speciality": "radiology;nuclear"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6780378,
+          50.1158562
+        ]
+      },
+      "id": "node/5075024309"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "healthcare": "doctor",
+        "name": "Malek",
+        "opening_hours": "Mo-Fr 08:00-13:00, Mo,Tu,Th 15:00-18:00",
+        "phone": "+49 69 236550",
+        "website": "https://www.praxis-dr-malek.de/",
+        "healthcare_speciality": "general;naturopathy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6599163,
+          50.1014457
+        ]
+      },
+      "id": "node/5161382858"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "healthcare": "doctor",
+        "name": "Dr. Jüstel (Hautarzt)",
+        "phone": "+49 69 287705",
+        "website": "http://juestel.net",
+        "opening_hours": "Th 08:30-12:00",
+        "healthcare_speciality": "dermatology"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6743841,
+          50.1140698
+        ]
+      },
+      "id": "node/5170941223"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "healthcare": "doctor",
+        "name": "medneo Diagnostikzentrum Frankfurt am Main",
+        "phone": "+49 69 677 01 63-00",
+        "website": "https://www.medneo.com/de/frankfurt/zentrum/frankfurt-am-main/",
+        "opening_hours": "Mo-Th 08:00-13:00",
+        "healthcare_speciality": "radiology"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6680254,
+          50.11587
+        ]
+      },
+      "id": "node/5228618307"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "healthcare": "doctor",
+        "name": "Dr. Nauras Abuagela",
+        "website": "http://sebastian.net",
+        "opening_hours": "16:00-18:00; We 09:00-12:00; Th 09:00-12:00",
+        "phone": "(296) 808-7178 x890",
+        "healthcare_speciality": "anaesthetics"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6758389,
+          50.113521
+        ]
+      },
+      "id": "node/5303325577"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "healthcare": "doctor",
+        "name": "Gemeinschaftspraxis für Allgemeinmedizin im Gallusviertel",
+        "opening_hours": "Mo-Fr 08:00-12:00, Mo,Tu,Th 15:00-18:00; PH off",
+        "phone": "+49 (69) 75007110",
+        "website": "https://www.hausarztpraxis-gallus.de/",
+        "healthcare_speciality": "general"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6357451,
+          50.1038414
+        ]
+      },
+      "id": "node/6082563450"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "healthcare": "doctor",
+        "name": "Neeb",
+        "opening_hours": "\"nach Vereinbarung\"",
+        "phone": "+49 69 74224848",
+        "website": "https://www.praxis-neeb.de",
+        "healthcare_speciality": "general"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6574266,
+          50.1121882
+        ]
+      },
+      "id": "node/6276669524"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "healthcare": "doctor",
+        "name": "Dr. Willeke Kieferorthopädie",
+        "opening_hours": "Mo-Th 09:00-12:30, 13:30-17:00",
+        "website": "https://mabelle.net",
+        "phone": "1-378-347-2566",
+        "healthcare_speciality": "orthodontics"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6789276,
+          50.1037748
+        ]
+      },
+      "id": "node/6302862557"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "healthcare": "doctor",
+        "name": "Hausarztpraxis im Schleusenweg",
+        "opening_hours": "Mo-Fr 08:00-11:00; Mo-Tu,Th 14:00-17:00",
+        "website": "https://joana.info",
+        "phone": "1-663-074-8356",
+        "healthcare_speciality": "general"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.649513,
+          50.0896899
+        ]
+      },
+      "id": "node/7003944263"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "healthcare": "doctor",
+        "name": "Dr. med. Tanja Dioeva",
+        "opening_hours": "Mo-Fr 08:00-12:00; Mo-Tu,Th 15:00-18:00; PH closed",
+        "website": "https://vern.org",
+        "phone": "882.848.3140 x075",
+        "healthcare_speciality": "general;internal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6158188,
+          50.1213171
+        ]
+      },
+      "id": "node/7548885519"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "healthcare": "clinic",
+        "name": "EuroEyes AugenLaserZentrum Frankfurt",
+        "opening_hours": "Mo-Th 09:00-17:30; Fr 09:00-15.:30",
+        "phone": "+4969 219378830",
+        "website": "https://www.euroeyes.de/frankfurt/",
+        "healthcare_speciality": "ophthalmology"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6749662,
+          50.1147728
+        ]
+      },
+      "id": "node/7643189004"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "healthcare": "doctor",
+        "name": "HNO Goethestraße",
+        "website": "http://marguerite.biz",
+        "opening_hours": "Mo",
+        "phone": "1-196-180-9662 x25467",
+        "healthcare_speciality": "otolaryngology"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6744529,
+          50.1140481
+        ]
+      },
+      "id": "node/7658311008"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "healthcare": "doctor",
+        "name": "Orthopädie am Fürstenhof",
+        "opening_hours": "Mo-Fr 08:00-12:00, 14:00-18:00",
+        "phone": "+4969 2578150",
+        "website": "https://www.ortho-frankfurt.com/",
+        "healthcare_speciality": "orthopaedics"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6715436,
+          50.1088959
+        ]
+      },
+      "id": "node/7880939819"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "healthcare": "doctor",
+        "name": "Praxis für Allgemeinmedizin Lena Dagaeva",
+        "opening_hours": "Mo,Th 08:00-12:00,14:00-17:00; Tu 08:00-12:00,15:00-17:00; We,Fr 08:00-12:00; PH off",
+        "website": "https://www.arztpraxis-dagaeva.de/",
+        "phone": "934.650.3927 x7539",
+        "healthcare_speciality": "general"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6404461,
+          50.1080232
+        ]
+      },
+      "id": "node/8029253622"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "healthcare": "doctor",
+        "name": "Schmid Morales",
+        "opening_hours": "Mo-Th 08:00-13:00,14:00-18:00; Fr 08:00-13:00",
+        "phone": "+49 69 747077",
+        "website": "https://www.schmid-morales.de/",
+        "healthcare_speciality": "dermatology"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6543913,
+          50.1160895
+        ]
+      },
+      "id": "node/8920293571"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "healthcare": "doctor",
+        "name": "HNO Dr. Hellweg",
+        "website": "https://www.hno-hellweg.de",
+        "opening_hours": "16:00-18:00; Fr 09:00-14:00",
+        "phone": "070-837-7170 x87090",
+        "healthcare_speciality": "otolaryngology"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6740094,
+          50.113901
+        ]
+      },
+      "id": "node/9015115074"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "healthcare": "doctor",
+        "name": "Pia Mandler",
+        "opening_hours": "Mo 09:00-13:00; Tu, Th 09:00-11:00, 15:00-18:00; We 09:00-11:00; Fr 10:00-14:00",
+        "phone": "+49 69 617079;+49 69 61992121",
+        "website": "http://kale.org",
+        "healthcare_speciality": "general"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6817854,
+          50.1001071
+        ]
+      },
+      "id": "node/9144236291"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "healthcare": "doctor",
+        "name": "nexmed - Radiologie Frankfurt",
+        "opening_hours": "Mo-Fr 08:00-18:00",
+        "phone": "+49 69 348680950",
+        "website": "https://nexmed.de",
+        "healthcare_speciality": "radiology"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.661277,
+          50.1111278
+        ]
+      },
+      "id": "node/9164039596"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "healthcare": "doctor",
+        "name": "Praxis Dr. Dipl.-Psych. Aris Panagiotidis",
+        "opening_hours": "\"Nur nach Termin\"; ph off",
+        "phone": "+49 173 6455163",
+        "website": "https://shawna.com",
+        "healthcare_speciality": "psychology"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6777548,
+          50.120952
+        ]
+      },
+      "id": "node/9204650195"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "healthcare": "doctor",
+        "name": "Dr. med. Gregor Brüggemann",
+        "opening_hours": "Mo 08:00-12:00; Tu 08:00-12:00,14:30-17:30; We 08:00-12:00,14:30-16:00; Th 08:00-12:00,14:30-17:30; Fr 08:00-12:00,14:30-16:00",
+        "phone": "+49 69 287370",
+        "website": "https://www.jameda.de/frankfurt/aerzte/innere-allgemeinmediziner/dr-gregor-brueggemann/uebersicht/80094198_1/",
+        "healthcare_speciality": "general"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6795305,
+          50.1189621
+        ]
+      },
+      "id": "node/9243699790"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "healthcare": "doctor",
+        "name": "Tatjana Röß; Joachim Kraus",
+        "opening_hours": "\"nach Vereinbarung\"",
+        "website": "https://judge.org",
+        "phone": "1-924-576-4237 x80055",
+        "healthcare_speciality": "urology"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.644264,
+          50.1026016
+        ]
+      },
+      "id": "node/9288843494"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "healthcare": "doctor",
+        "name": "Rüdiger Schott; Dr. med. Britta Heyne",
+        "opening_hours": "Mo,Tu,Th 08:00-13:00,15:00-18:00; We,Fr 08:00-13:00",
+        "website": "https://marguerite.org",
+        "phone": "(183) 113-8971",
+        "healthcare_speciality": "surgery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6442612,
+          50.1026358
+        ]
+      },
+      "id": "node/9288843495"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "healthcare": "doctor",
+        "name": "Schulter Frankfurt",
+        "phone": "+49 69 36601674",
+        "website": "https://www.schulterfrankfurt.de/",
+        "opening_hours": "16:00-18:00; Fr 09:00-14:00",
+        "healthcare_speciality": "orthopaedics"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6768211,
+          50.1207615
+        ]
+      },
+      "id": "node/9300415424"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "healthcare": "doctor",
+        "name": "Gelenk Wirbel Steuer",
+        "phone": "+49 69 36601677",
+        "website": "https://www.gelenk-wirbel-steuer.de/",
+        "opening_hours": "Mo-Th 08:00-13:00",
+        "healthcare_speciality": "orthopaedics"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6767743,
+          50.1207424
+        ]
+      },
+      "id": "node/9300415425"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "healthcare": "doctor",
+        "name": "Leber, Erhardt, Otte, Schröck",
+        "website": "https://makenzie.biz",
+        "opening_hours": "Mo-Tu 14:00-17:00",
+        "phone": "557.985.0922 x385",
+        "healthcare_speciality": "psychology"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6774891,
+          50.1210757
+        ]
+      },
+      "id": "node/9300415427"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "healthcare": "doctor",
+        "name": "Gemeinschaftspraxis Schneckenhofstraße",
+        "opening_hours": "Mo-Tu, Th 09:00-12:00, 16:00-18:00; We 09:00-11:00; Fr 09:00-14:00",
+        "phone": "+49 69 613832",
+        "website": "https://www.hausaerzte-ffm.de/",
+        "healthcare_speciality": "general;naturopathy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.677617,
+          50.1008523
+        ]
+      },
+      "id": "node/9399565517"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "healthcare": "doctor",
+        "name": "Dr. M. Saleh",
+        "website": "http://gabriel.biz",
+        "opening_hours": "15:00-18:00; Th 08:00-13:00",
+        "phone": "694-159-7217 x5336",
+        "healthcare_speciality": "urology"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6736256,
+          50.1143341
+        ]
+      },
+      "id": "node/9399565718"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "healthcare": "doctor",
+        "name": "Haus- und Facharzt-Zentrum Frankfurt Sachsenhausen/City",
+        "opening_hours": "Mo-Fr 08:00-13:00, Mo,Tu,Th 15:00-18:00",
+        "phone": "+<0049> <069> <61995290>",
+        "website": "https://www.arzt-frankfurt.de/",
+        "healthcare_speciality": "general;gynaecology;internal;vaccination;cardiology;plastic_surgery;blood_check;emergency;naturopathy;homeopathy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6783747,
+          50.1050084
+        ]
+      },
+      "id": "node/9399567217"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "healthcare": "doctor",
+        "name": "Prodromos Telpesidis",
+        "website": "http://alvena.info",
+        "opening_hours": "Fr 08:30-14:00",
+        "phone": "951.727.5829 x59476",
+        "healthcare_speciality": "general"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6453663,
+          50.1233248
+        ]
+      },
+      "id": "node/9405792362"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "healthcare": "doctor",
+        "name": "Praxis Dr. med. Beate Lindemann",
+        "opening_hours": "Mo-Fr 08:00-12:00, Mo-Tu 14:00-17:00, Th 14:00-18:00; PH off",
+        "website": "http://sierra.info",
+        "phone": "(160) 613-9335 x02541",
+        "healthcare_speciality": "internal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6516945,
+          50.1061756
+        ]
+      },
+      "id": "node/9407034598"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "healthcare": "doctor",
+        "name": "Orthopädie MainMed MVZ",
+        "opening_hours": "Mo-Th 08:30-16:30; Fr 08:30-12:30",
+        "phone": "+49 69 13385890",
+        "website": "https://www.mainmed-mvz.de/",
+        "healthcare_speciality": "orthopaedics"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6769228,
+          50.1116146
+        ]
+      },
+      "id": "node/9526627799"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "healthcare": "doctor",
+        "name": "Praxis Dr. Emil Popp",
+        "opening_hours": "Mo-Fr 08:00-12:00, Mo-Tu 14:00-17:00, Th 14:00-18:00; PH off",
+        "website": "http://rosamond.com",
+        "phone": "1-019-119-5765 x66268",
+        "healthcare_speciality": "ophthalmology"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6688757,
+          50.1086758
+        ]
+      },
+      "id": "node/9682759439"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "healthcare": "doctor",
+        "name": "MainFachArzt Drs. Mösch&Khaykin",
+        "phone": "+49 69 253103",
+        "website": "http://www.MainFachArzt.de",
+        "opening_hours": "2026 Jun 06 off",
+        "healthcare_speciality": "psychology"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6700447,
+          50.1089894
+        ]
+      },
+      "id": "node/9778677517"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "healthcare": "doctor",
+        "name": "Haemostas",
+        "opening_hours": "Mo-Fr 08:00-12:00, Mo,Tu,Th 14:00-17:00",
+        "phone": "+49 69 6050130",
+        "website": "https://www.haemostas.de/",
+        "healthcare_speciality": "biological_haematology"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6692241,
+          50.0996849
+        ]
+      },
+      "id": "node/10001420991"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "healthcare": "doctor",
+        "name": "Schönsinn",
+        "website": "http://brenna.com",
+        "opening_hours": "\"nach Vereinbarung\"",
+        "phone": "385-855-2045",
+        "healthcare_speciality": "plastic_surgery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6786471,
+          50.1162664
+        ]
+      },
+      "id": "node/10057212216"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "healthcare": "doctor",
+        "name": "Augenarztpraxis Dr. med. Diana Mintzer",
+        "phone": "+4969558088",
+        "website": "https://www.augenarzt-frankfurt-west.de",
+        "opening_hours": "We 16:00-20:00",
+        "healthcare_speciality": "ophthalmology"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6617626,
+          50.1186721
+        ]
+      },
+      "id": "node/10239801003"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "healthcare": "doctor",
+        "name": "Dr. med. Daniel Ekhart",
+        "opening_hours": "Mo-Fr 08:00-13:00, Mo,Tu,Th 15:00-18:00",
+        "website": "http://kariane.biz",
+        "phone": "(168) 439-9914",
+        "healthcare_speciality": "general;internal;vaccination"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6783187,
+          50.1050328
+        ]
+      },
+      "id": "node/10570379544"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "healthcare": "doctor",
+        "name": "Kinderarztpraxis Dr. med Vera Auth",
+        "opening_hours": "Mo-Th 09:00-13:00,13:30-17:00; Fr 09:00-13:00",
+        "website": "https://www.kinderarzt-frankfurt.com/",
+        "phone": "1-213-317-2850 x1276",
+        "healthcare_speciality": "paediatrics"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6377305,
+          50.0845807
+        ]
+      },
+      "id": "node/10682646729"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "healthcare": "doctor",
+        "name": "Orthopädie an der Rennbahn",
+        "website": "https://orthopaede-in-frankfurt.de/",
+        "opening_hours": "Fr 15:00-18:00; Mo",
+        "phone": "(438) 643-0951 x87472",
+        "healthcare_speciality": "orthopaedics"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6492771,
+          50.0856714
+        ]
+      },
+      "id": "node/10709827931"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "healthcare": "doctor",
+        "name": "Hausarzt Praxis Dr. med. Nasrin Yousefi",
+        "website": "http://lula.name",
+        "opening_hours": "Mo-Th 09:00-17:30; Fr 09:00-15.:30",
+        "phone": "1-864-975-2962 x686",
+        "healthcare_speciality": "general"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6464268,
+          50.0866631
+        ]
+      },
+      "id": "node/10725821066"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "healthcare": "doctor",
+        "name": "Michael Simonsohn; Nasrat Ander",
+        "opening_hours": "Mo,Th 08:00-12:00,15:00-18:00; Tu 08:00-12:00,14:00-18:00; We,Fr 08:00-13:00",
+        "website": "http://orlo.biz",
+        "phone": "187-362-0081",
+        "healthcare_speciality": "diabetology;internal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6443733,
+          50.102572
+        ]
+      },
+      "id": "node/10728243234"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "healthcare": "doctor",
+        "name": "Emine Al-Swais",
+        "opening_hours": "Mo,Tu,Th 08:00-12:30,13:00-17:00; We 08:00-12:00; Fr 08:00-12:30,13:00-15:00",
+        "website": "http://schuyler.com",
+        "phone": "238-353-4513 x369",
+        "healthcare_speciality": "gynaecology"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.644266,
+          50.1025723
+        ]
+      },
+      "id": "node/10728243235"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "healthcare": "doctor",
+        "name": "Ambulantes Operationszentrum",
+        "opening_hours": "Mo-Th 11:00-13:00",
+        "website": "https://susan.biz",
+        "phone": "(639) 938-0071",
+        "healthcare_speciality": "surgery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6443617,
+          50.1026347
+        ]
+      },
+      "id": "node/10728243236"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "healthcare": "doctor",
+        "name": "Klinik an der Galluswarte",
+        "website": "https://jaunita.com",
+        "opening_hours": "Mo 15:00-21:00",
+        "phone": "(889) 467-9840",
+        "healthcare_speciality": "surgery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6443592,
+          50.1026022
+        ]
+      },
+      "id": "node/10728243237"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "healthcare": "doctor",
+        "name": "Dr. med. E. Wissing",
+        "website": "https://nelda.biz",
+        "opening_hours": "Fr 08:00-12:00",
+        "phone": "302-911-1126 x12895",
+        "healthcare_speciality": "paediatrics"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6442577,
+          50.1026747
+        ]
+      },
+      "id": "node/10728243238"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "healthcare": "doctor",
+        "name": "Chirurgische Praxis Soleymani",
+        "website": "http://ashly.org",
+        "opening_hours": "Mo-Th 09:00-12:00",
+        "phone": "878-838-6818 x33654",
+        "healthcare_speciality": "surgery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.650346,
+          50.1057859
+        ]
+      },
+      "id": "node/10737838663"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "healthcare": "doctor",
+        "name": "Çiğdem von Nessen",
+        "opening_hours": "Mo,Tu,Th 09:00-12:00,15:00-17:00; We,Fr 09:00-12:00",
+        "website": "http://faye.name",
+        "phone": "766.438.1305 x1791",
+        "healthcare_speciality": "general"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6840574,
+          50.1142795
+        ]
+      },
+      "id": "node/10742324217"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "healthcare": "doctor",
+        "name": "Lumedis Orthopäden",
+        "phone": "+49 69 24753120",
+        "website": "https://www.lumedis.de/",
+        "opening_hours": "Th 09:00-12:00",
+        "healthcare_speciality": "orthopaedics"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6754119,
+          50.1109765
+        ]
+      },
+      "id": "node/10873257696"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "healthcare": "doctor",
+        "name": "Deutsches Endokrinologisches Versorgungszentrum",
+        "opening_hours": "Mo-Th 08:00-18:00 open \"nur mit Termin/by appointment only\", Fr 08:00-17:00 open \"nur mit Termin/by appointment only\"; Sa,Su,PH off; 2025 Dec 24-2026 Jan 04,2026 May 15,2026 Jun 06 off",
+        "phone": "+49 69 2578680",
+        "website": "https://www.endokrinologen.de/",
+        "healthcare_speciality": "endocrinology"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6620317,
+          50.1085631
+        ]
+      },
+      "id": "node/10882949714"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "healthcare": "doctor",
+        "name": "Dr. Müller",
+        "opening_hours": "Mo-Fr 09:00-14:30, Mo,Tu,Th 16:00-18:00",
+        "phone": "+49 69 71034370",
+        "website": "http://arzt-in-ffm.de/drmueller/",
+        "healthcare_speciality": "gynaecology"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6690363,
+          50.1087455
+        ]
+      },
+      "id": "node/10884282357"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "healthcare": "doctor",
+        "name": "Praxis Makansi",
+        "opening_hours": "Mo,Tu,Th 08:00-12:00,14:00-17:00; We,Fr 08:00-12:00",
+        "website": "http://xzavier.info",
+        "phone": "1-172-890-3888 x320",
+        "healthcare_speciality": "general"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6400524,
+          50.1028548
+        ]
+      },
+      "id": "node/10960246608"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "healthcare": "doctor",
+        "name": "Elbert",
+        "opening_hours": "Mo,Tu,Th,Fr 15:00-18:00; Mo,We 08:00-10:00 || \"u. nach Vereinbarung\"",
+        "website": "https://francisco.name",
+        "phone": "1-846-516-6055 x56821",
+        "healthcare_speciality": "general"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6312936,
+          50.1121884
+        ]
+      },
+      "id": "node/10964217159"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "healthcare": "doctor",
+        "name": "Dr. med. Mahin Dokht Farid",
+        "opening_hours": "Mo,Tu,Th 09:00-12:00,15:00-17:00; We,Fr 09:00-12:00",
+        "website": "http://kristy.biz",
+        "phone": "1-101-842-9600",
+        "healthcare_speciality": "anaesthetics"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6436224,
+          50.1231543
+        ]
+      },
+      "id": "node/11063618594"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "healthcare": "doctor",
+        "name": "Rupert Falk",
+        "opening_hours": "Mo,Tu 08:00-11:00,15:00-17:00; We,Fr 08:00-11:00; Th 08:00-11:00,15:00-19:00",
+        "website": "https://seamus.net",
+        "phone": "815.879.3299 x345",
+        "healthcare_speciality": "internal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6443292,
+          50.1034071
+        ]
+      },
+      "id": "node/11091809291"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "healthcare": "doctor",
+        "name": "Praxis für Kinder- und Jugendmedizin",
+        "opening_hours": "Mo,Tu,Th 08:30-12:30,15:00-17:00; We,Fr 08:30-12:30",
+        "website": "http://kenna.biz",
+        "phone": "900-473-1653 x91591",
+        "healthcare_speciality": "paediatrics"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6442748,
+          50.1033963
+        ]
+      },
+      "id": "node/11091809292"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "healthcare": "doctor",
+        "name": "Neurologie Galluswarte",
+        "opening_hours": "Mo,Tu,Th 09:00-12:30,14:00-17:00; We,Fr 09:00-12:30",
+        "website": "https://vaughn.biz",
+        "phone": "(456) 986-2367 x363",
+        "healthcare_speciality": "neurology"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6443143,
+          50.1034315
+        ]
+      },
+      "id": "node/11091809293"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "healthcare": "doctor",
+        "name": "Praxis Filiz Yilmaz",
+        "opening_hours": "Mo,Tu,Th 08:30-16:00; Th,Fr 08:30-14:00",
+        "website": "https://jerel.biz",
+        "phone": "(262) 056-4023",
+        "healthcare_speciality": "gynaecology"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6442599,
+          50.1034215
+        ]
+      },
+      "id": "node/11091809294"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "healthcare": "doctor",
+        "name": "Dr. Salgo",
+        "website": "http://vida.net",
+        "opening_hours": "Th 08:30-12:00",
+        "phone": "(809) 165-2479",
+        "healthcare_speciality": "dermatology;paediatrics"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6480132,
+          50.123748
+        ]
+      },
+      "id": "node/11174942245"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "healthcare": "doctor",
+        "name": "Psychotherapie Am Weingarten",
+        "website": "https://rhett.net",
+        "opening_hours": "Mo-Fr 08:00-12:00",
+        "phone": "831.094.6850 x0497",
+        "healthcare_speciality": "physiotherapy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6481044,
+          50.1237491
+        ]
+      },
+      "id": "node/11174942246"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "healthcare": "doctor",
+        "name": "Praxis für Psychotherapie",
+        "website": "http://krystal.com",
+        "opening_hours": "Tu 14:00-17:00",
+        "phone": "1-285-541-6407 x036",
+        "healthcare_speciality": "physiotherapy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6481031,
+          50.123618
+        ]
+      },
+      "id": "node/11174942248"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "healthcare": "doctor",
+        "name": "Praxis Dr. med Irena Zlotina",
+        "website": "https://larue.name",
+        "opening_hours": "Th",
+        "phone": "138-042-9827 x0756",
+        "healthcare_speciality": "general"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6481576,
+          50.123667
+        ]
+      },
+      "id": "node/11174942255"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "healthcare": "doctor",
+        "name": "Physio Complete",
+        "website": "https://carmen.com",
+        "opening_hours": "Tu",
+        "phone": "418.821.4932 x857",
+        "healthcare_speciality": "physiotherapy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6481435,
+          50.1235931
+        ]
+      },
+      "id": "node/11174942256"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "healthcare": "doctor",
+        "name": "Gemeinschaftspraxis Bringer & Weber",
+        "opening_hours": "Mo-Tu, Th-Sa 09:00-11:00, 15:00-18:00; We 09:00-11:00",
+        "phone": "069 707 50 91;069 707 51 42",
+        "website": "http://arzt-bockenheim.de/",
+        "healthcare_speciality": "otolaryngology"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6444467,
+          50.1223692
+        ]
+      },
+      "id": "node/11248200738"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "healthcare": "doctor",
+        "name": "Dr. med. Nicola Strnad-Trojan",
+        "opening_hours": "Mo-Fr 09:00-12:00; Mo, Tu, Th 15:00-16:30",
+        "phone": "069685157",
+        "website": "http://annette.com",
+        "healthcare_speciality": "paediatrics"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6804909,
+          50.095588
+        ]
+      },
+      "id": "node/11252341997"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "healthcare": "doctor",
+        "name": "Dr. Gert-Mario Voigt",
+        "website": "http://mozell.net",
+        "opening_hours": "16:00-18:00; We 09:00-12:00; Th 09:00-12:00",
+        "phone": "609.662.6306 x254",
+        "healthcare_speciality": "general"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6733692,
+          50.1207014
+        ]
+      },
+      "id": "node/11472514971"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "healthcare": "doctor",
+        "name": "Gemeinschaftspraxis Dr. med. Angela Stöß & Martina Welge",
+        "opening_hours": "Mo 09:00-12:00,14:00-16:00; Tu 09:00-12:00,16:00-18:00; We 09:00-12:00; Th 09:00-12:00,16:00-18:00; Fr 09:00-14:00",
+        "phone": "+49 69 553506",
+        "website": "https://www.stoess-welge.de/",
+        "healthcare_speciality": "general;naturopathy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6772494,
+          50.11897
+        ]
+      },
+      "id": "node/11522946374"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "healthcare": "doctor",
+        "name": "Rapprich Rosenkranz",
+        "opening_hours": "Mo,Tu,Fr 09:00-13:00, Mo 15:00-21:00, We 16:00-20:00, Th 14:30-18:30",
+        "phone": "+49 69 74387825",
+        "website": "http://madelyn.biz",
+        "healthcare_speciality": "ophthalmology"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6593184,
+          50.1117935
+        ]
+      },
+      "id": "node/11577692214"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "healthcare": "doctor",
+        "name": "Dr. T. Link",
+        "opening_hours": "Mo-Fr 07:30-12:00, Mo,Tu,Th 14:45-16:30",
+        "website": "http://carlee.info",
+        "phone": "1-715-188-1250 x93672",
+        "healthcare_speciality": "general"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6764601,
+          50.1025302
+        ]
+      },
+      "id": "node/11768427198"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "healthcare": "doctor",
+        "name": "Dr. Schaaf",
+        "phone": "+49 69 446588",
+        "website": "http://dwight.biz",
+        "opening_hours": "16:00-18:00; Tu 09:00-12:00",
+        "healthcare_speciality": "paediatrics"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6767401,
+          50.1027607
+        ]
+      },
+      "id": "node/11768449798"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "healthcare": "doctor",
+        "name": "Chirurgische Unfallpraxis",
+        "phone": "+49 69 613607",
+        "website": "http://charity.info",
+        "opening_hours": "Th",
+        "healthcare_speciality": "trauma"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6766883,
+          50.1027147
+        ]
+      },
+      "id": "node/11768450209"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "healthcare": "doctor",
+        "name": "Ärztliche u. Psychologische Psychotherapeutische Fachpraxis an der Alten Oper",
+        "opening_hours": "\"Termine nach telef. Vereinbarung\"",
+        "website": "http://sarai.com",
+        "phone": "786.051.8263 x26714",
+        "healthcare_speciality": "psychiatry"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6730261,
+          50.1171204
+        ]
+      },
+      "id": "node/11831430770"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "healthcare": "doctor",
+        "name": "Kardiologische Praxis Innenstadt",
+        "opening_hours": "Mo,Tu,Th,Fr 08:00-13:00, 13:30-17:30; We 08:00-14:30; PH off",
+        "website": "https://kardiocentrum.de/das-kardiocentrum/praxis-innenstadt/",
+        "phone": "716.792.7963",
+        "healthcare_speciality": "cardiology"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6760357,
+          50.1119181
+        ]
+      },
+      "id": "node/11891142210"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "healthcare": "doctor",
+        "name": "Praxis Dr. med. Jürgen Decher",
+        "opening_hours": "Mo, Tu 08:00-13:00, 15:00-18:00; Th 08:00-13:00, 14:00-17:00; Fr 08:00-13:30; PH off",
+        "phone": "+49 69 671345",
+        "website": "http://www.orthopaediepraxis-decher.de",
+        "healthcare_speciality": "orthopaedics"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6520567,
+          50.0897664
+        ]
+      },
+      "id": "node/12086534827"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "healthcare": "psychotherapist",
+        "name": "Mental Health Privatpraxis",
+        "website": "http://emma.net",
+        "opening_hours": "Th 15:00-18:00; PH off",
+        "phone": "082-409-4027 x1418",
+        "healthcare_speciality": "dermatology"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6645013,
+          50.1122152
+        ]
+      },
+      "id": "node/12165881790"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "healthcare": "doctor",
+        "name": "Dr. med. V.Brandstetter",
+        "opening_hours": "Mo,Th 09:00-12:00,16:00-18:00; Tu 09:00-12:00,16:00-19:00; We,Fr 09:00-12:00",
+        "website": "http://kelsie.name",
+        "phone": "(977) 032-0259 x403",
+        "healthcare_speciality": "otolaryngology"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6507771,
+          50.1236993
+        ]
+      },
+      "id": "node/12291955103"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "healthcare": "doctor",
+        "name": "Hausarzt Westend Praxis für Allgemeinmedizin und Innere Medizin",
+        "opening_hours": "Mo,Tu,Th 08:30-12:00,14:00-17:00; We,Fr 08:30-13:00",
+        "phone": "+49 69 583037 401",
+        "website": "https://www.medicover.de/",
+        "healthcare_speciality": "general"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6622699,
+          50.1099219
+        ]
+      },
+      "id": "node/12829929313"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "healthcare": "doctor",
+        "name": "chirurgicum frankfurt",
+        "website": "https://haylee.net",
+        "opening_hours": "Mo 15:00-21:00",
+        "phone": "1-030-289-8884 x3154",
+        "healthcare_speciality": "surgery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6830556,
+          50.1159491
+        ]
+      },
+      "id": "node/12897289893"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "healthcare": "doctor",
+        "name": "MVZ Dermatopathologie",
+        "website": "https://cindy.com",
+        "opening_hours": "Mo-Fr 08:00-13:00",
+        "phone": "732-950-4764",
+        "healthcare_speciality": "pathology"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6830529,
+          50.1159714
+        ]
+      },
+      "id": "node/12897289894"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "healthcare": "doctor",
+        "name": "Schmerzzentrum Rhein Main",
+        "website": "https://raegan.info",
+        "opening_hours": "Th-Sa 09:00-11:00",
+        "phone": "475.520.1551",
+        "healthcare_speciality": "radiology;nuclear"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6830502,
+          50.1159943
+        ]
+      },
+      "id": "node/12897289895"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "healthcare": "doctor",
+        "name": "Praxis am Europaviertel",
+        "opening_hours": "Mo-Fr 08:00-12:00, Mo,Tu,Th 15:00-18:00",
+        "website": "https://krystina.name",
+        "phone": "(375) 070-5808",
+        "healthcare_speciality": "orthopaedics"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6373581,
+          50.1055291
+        ]
+      },
+      "id": "node/12907916958"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "healthcare": "doctor",
+        "name": "ancora - Beratung für junge Menschen bei psychischen Krisen",
+        "opening_hours": "\"Termine nach Vereinbarung\"; Mi 14:30-16:30",
+        "phone": "+491624733115",
+        "website": "https://www.ancora-frankfurt.de/",
+        "healthcare_speciality": "psychiatry;child_psychiatry;psychotherapist"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6516224,
+          50.1195451
+        ]
+      },
+      "id": "node/13167181304"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "healthcare": "doctor",
+        "name": "Aesthetify",
+        "website": "https://lonny.org",
+        "opening_hours": "Mo-Th 09:00-12:00",
+        "phone": "605.494.0530 x127",
+        "healthcare_speciality": "neurology"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6836735,
+          50.114305
+        ]
+      },
+      "id": "node/13243466205"
+    }
+  ]
+}

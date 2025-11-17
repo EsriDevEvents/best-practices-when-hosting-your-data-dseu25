@@ -1,0 +1,19 @@
+{
+  "name": "leaflet-geocoding-control",
+  "version": "1.0.0",
+  "description": "",
+  "license": "Apache-2.0",
+  "author": "Raul Jimenez",
+  "type": "commonjs",
+  "main": "main.js",
+  "scripts": {
+    "start": "npx vite",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "esri-leaflet": "^3.0.19",
+    "esri-leaflet-geocoder": "^3.1.6",
+    "esri-leaflet-vector": "^4.3.2",
+    "leaflet": "^1.9.4"
+  }
+}

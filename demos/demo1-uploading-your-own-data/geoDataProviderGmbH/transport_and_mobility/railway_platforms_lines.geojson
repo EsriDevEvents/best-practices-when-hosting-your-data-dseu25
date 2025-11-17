@@ -1,0 +1,1582 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "bench": "yes",
+        "name": "Leipziger Straße",
+        "bin": "yes",
+        "tactile_paving": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.6449354,
+            50.122836
+          ],
+          [
+            8.6462603,
+            50.1224297
+          ]
+        ]
+      },
+      "id": "way/60659765"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bench": "yes",
+        "name": "Leipziger Straße",
+        "bin": "yes",
+        "tactile_paving": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.6449389,
+            50.1228409
+          ],
+          [
+            8.645257,
+            50.1227382
+          ],
+          [
+            8.6462656,
+            50.1224352
+          ]
+        ]
+      },
+      "id": "way/60659769"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bench": "no",
+        "name": "Westend",
+        "bin": "no",
+        "tactile_paving": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.6610065,
+            50.1187381
+          ],
+          [
+            8.6620978,
+            50.1184051
+          ],
+          [
+            8.6623755,
+            50.1183203
+          ],
+          [
+            8.6628662,
+            50.1181496
+          ],
+          [
+            8.6633057,
+            50.1179802
+          ]
+        ]
+      },
+      "id": "way/60659776"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bench": "yes",
+        "name": "Grüneburgweg",
+        "bin": "yes",
+        "tactile_paving": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.675692,
+            50.1214363
+          ],
+          [
+            8.6757581,
+            50.1219941
+          ],
+          [
+            8.6758042,
+            50.1223716
+          ]
+        ]
+      },
+      "id": "way/60703200"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bench": "yes",
+        "name": "Grüneburgweg",
+        "bin": "yes",
+        "tactile_paving": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.6756637,
+            50.1223805
+          ],
+          [
+            8.6756246,
+            50.1219942
+          ],
+          [
+            8.6755743,
+            50.1214518
+          ]
+        ]
+      },
+      "id": "way/60703203"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bench": "yes",
+        "name": "Eschenheimer Tor",
+        "bin": "yes",
+        "tactile_paving": "no"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.6795839,
+            50.116993
+          ],
+          [
+            8.6793067,
+            50.1174105
+          ],
+          [
+            8.6790998,
+            50.1178133
+          ]
+        ]
+      },
+      "id": "way/60703207"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bench": "yes",
+        "name": "Eschenheimer Tor",
+        "bin": "yes",
+        "tactile_paving": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.6790033,
+            50.1178018
+          ],
+          [
+            8.6792082,
+            50.1173852
+          ],
+          [
+            8.6794882,
+            50.1169671
+          ]
+        ]
+      },
+      "id": "way/60703211"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bench": "yes",
+        "name": "Neue Kräme",
+        "bin": "yes",
+        "tactile_paving": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.6814149,
+            50.1107928
+          ],
+          [
+            8.681822,
+            50.1108362
+          ]
+        ]
+      },
+      "id": "way/60931924"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bench": "yes",
+        "name": "Neue Kräme",
+        "bin": "yes",
+        "tactile_paving": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.6825461,
+            50.1110945
+          ],
+          [
+            8.68242,
+            50.1110481
+          ],
+          [
+            8.6821693,
+            50.1109706
+          ]
+        ]
+      },
+      "id": "way/60931927"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bench": "yes",
+        "name": "Haardtwaldplatz",
+        "bin": "yes",
+        "tactile_paving": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.6360243,
+            50.086433
+          ],
+          [
+            8.6360197,
+            50.0864088
+          ],
+          [
+            8.6360224,
+            50.0863856
+          ],
+          [
+            8.6360291,
+            50.0863568
+          ],
+          [
+            8.6360385,
+            50.0863331
+          ],
+          [
+            8.6360519,
+            50.0863026
+          ],
+          [
+            8.6360713,
+            50.0862746
+          ],
+          [
+            8.6360995,
+            50.0862458
+          ],
+          [
+            8.6361256,
+            50.086223
+          ],
+          [
+            8.6361672,
+            50.0861997
+          ],
+          [
+            8.6362047,
+            50.0861868
+          ],
+          [
+            8.6362624,
+            50.0861731
+          ]
+        ]
+      },
+      "id": "way/284095411"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bench": "no",
+        "bin": "no",
+        "tactile_paving": "no"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.6369727,
+            50.0977384
+          ],
+          [
+            8.6369572,
+            50.0977335
+          ]
+        ]
+      },
+      "id": "way/292828092"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bench": "no",
+        "bin": "no",
+        "tactile_paving": "no"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.6674056,
+            50.1027447
+          ],
+          [
+            8.6675453,
+            50.1027949
+          ],
+          [
+            8.6677574,
+            50.1028731
+          ],
+          [
+            8.6681518,
+            50.1030339
+          ]
+        ]
+      },
+      "id": "way/370535706"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bench": "yes",
+        "name": "Bockenheimer Warte",
+        "bin": "yes",
+        "tactile_paving": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.65403,
+            50.1194495
+          ],
+          [
+            8.6540422,
+            50.1194879
+          ],
+          [
+            8.6540582,
+            50.1195385
+          ]
+        ]
+      },
+      "id": "way/440748771"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bench": "yes",
+        "name": "Niederrad Bahnhof",
+        "bin": "yes",
+        "tactile_paving": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.6371156,
+            50.0809673
+          ],
+          [
+            8.6370984,
+            50.0809616
+          ],
+          [
+            8.6370043,
+            50.0809307
+          ],
+          [
+            8.636978,
+            50.0809221
+          ]
+        ]
+      },
+      "id": "way/517658073"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bench": "yes",
+        "name": "Niederrad Bahnhof",
+        "bin": "yes",
+        "tactile_paving": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.6371577,
+            50.0806695
+          ],
+          [
+            8.6372258,
+            50.0806938
+          ],
+          [
+            8.6372818,
+            50.0807137
+          ]
+        ]
+      },
+      "id": "way/517658074"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bench": "yes",
+        "name": "Westbahnhof",
+        "bin": "yes",
+        "tactile_paving": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.6391405,
+            50.1198911
+          ],
+          [
+            8.6391264,
+            50.1198798
+          ],
+          [
+            8.6394099,
+            50.1197195
+          ],
+          [
+            8.63942,
+            50.1197272
+          ]
+        ]
+      },
+      "id": "way/524613832"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bench": "yes",
+        "name": "An der Dammheide",
+        "bin": "yes",
+        "tactile_paving": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.6309166,
+            50.1173339
+          ],
+          [
+            8.6311861,
+            50.1173094
+          ]
+        ]
+      },
+      "id": "way/524616191"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bench": "yes",
+        "name": "An der Dammheide",
+        "bin": "yes",
+        "tactile_paving": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.6310394,
+            50.1171913
+          ],
+          [
+            8.6309301,
+            50.1172007
+          ],
+          [
+            8.6307927,
+            50.1172127
+          ]
+        ]
+      },
+      "id": "way/524616192"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bench": "yes",
+        "name": "Kuhwaldstraße",
+        "bin": "yes",
+        "tactile_paving": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.6408389,
+            50.1168144
+          ],
+          [
+            8.6403193,
+            50.1168456
+          ]
+        ]
+      },
+      "id": "way/524616197"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bench": "yes",
+        "name": "Kuhwaldstraße",
+        "bin": "yes",
+        "tactile_paving": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.6403233,
+            50.1169458
+          ],
+          [
+            8.6407042,
+            50.1169273
+          ]
+        ]
+      },
+      "id": "way/524616198"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bench": "yes",
+        "name": "Stresemannallee/Mörfelder Landstraße",
+        "bin": "yes",
+        "tactile_paving": "no"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.6713859,
+            50.0891494
+          ],
+          [
+            8.6713918,
+            50.0890731
+          ],
+          [
+            8.671398,
+            50.0889928
+          ]
+        ]
+      },
+      "id": "way/534865264"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bench": "yes",
+        "name": "Stresemannallee/Mörfelder Landstraße",
+        "bin": "yes",
+        "tactile_paving": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.6721705,
+            50.0897629
+          ],
+          [
+            8.6720868,
+            50.0897039
+          ],
+          [
+            8.6720109,
+            50.0896502
+          ]
+        ]
+      },
+      "id": "way/534865267"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bench": "yes",
+        "name": "Leonardo-da-Vinci-Allee",
+        "bin": "yes",
+        "tactile_paving": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.628087,
+            50.1138465
+          ],
+          [
+            8.6281009,
+            50.1139018
+          ],
+          [
+            8.6281179,
+            50.1139652
+          ]
+        ]
+      },
+      "id": "way/537693358"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bench": "yes",
+        "name": "Leonardo-da-Vinci-Allee",
+        "bin": "yes",
+        "tactile_paving": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.6269974,
+            50.1135911
+          ],
+          [
+            8.6271119,
+            50.1135832
+          ],
+          [
+            8.627188,
+            50.1135779
+          ],
+          [
+            8.6272281,
+            50.1135751
+          ]
+        ]
+      },
+      "id": "way/537693362"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bench": "yes",
+        "name": "Zum Rebstockbad",
+        "bin": "no",
+        "tactile_paving": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.619213,
+            50.1126016
+          ],
+          [
+            8.6191303,
+            50.1126604
+          ],
+          [
+            8.619048,
+            50.112719
+          ]
+        ]
+      },
+      "id": "way/537695488"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Zum Rebstockbad",
+        "bench": "yes",
+        "bin": "yes",
+        "tactile_paving": "no"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.6188388,
+            50.1129581
+          ],
+          [
+            8.6189267,
+            50.1128983
+          ],
+          [
+            8.6190172,
+            50.1128368
+          ]
+        ]
+      },
+      "id": "way/537695493"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bench": "yes",
+        "name": "Rebstockbad",
+        "bin": "yes",
+        "tactile_paving": "no"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.6199083,
+            50.1138933
+          ],
+          [
+            8.6197513,
+            50.1138709
+          ],
+          [
+            8.6195985,
+            50.1138491
+          ]
+        ]
+      },
+      "id": "way/537695498"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bench": "yes",
+        "name": "Rebstockbad",
+        "bin": "yes",
+        "tactile_paving": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.6192002,
+            50.1135657
+          ],
+          [
+            8.6192931,
+            50.113577
+          ],
+          [
+            8.6193873,
+            50.1135885
+          ]
+        ]
+      },
+      "id": "way/537695501"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bench": "yes",
+        "name": "Melibocusstraße",
+        "bin": "yes",
+        "tactile_paving": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.6401141,
+            50.0820029
+          ],
+          [
+            8.6400006,
+            50.0819625
+          ],
+          [
+            8.6398914,
+            50.0819237
+          ]
+        ]
+      },
+      "id": "way/537754643"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bench": "yes",
+        "name": "Melibocusstraße",
+        "bin": "yes",
+        "tactile_paving": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.6404373,
+            50.0818695
+          ],
+          [
+            8.6405556,
+            50.0819134
+          ],
+          [
+            8.6406693,
+            50.0819556
+          ]
+        ]
+      },
+      "id": "way/537754645"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bench": "yes",
+        "name": "Gerauer Straße",
+        "bin": "yes",
+        "tactile_paving": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.6447516,
+            50.0836634
+          ],
+          [
+            8.6448691,
+            50.0837188
+          ],
+          [
+            8.644985,
+            50.0837735
+          ]
+        ]
+      },
+      "id": "way/537761341"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bench": "no",
+        "name": "Gerauer Straße",
+        "bin": "no",
+        "tactile_paving": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.6447945,
+            50.083977
+          ],
+          [
+            8.6449102,
+            50.0840316
+          ],
+          [
+            8.6450279,
+            50.0840872
+          ]
+        ]
+      },
+      "id": "way/537761343"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bench": "yes",
+        "name": "Triftstraße",
+        "bin": "yes",
+        "tactile_paving": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.6507812,
+            50.0872143
+          ],
+          [
+            8.6507578,
+            50.0871701
+          ],
+          [
+            8.6507078,
+            50.0870778
+          ]
+        ]
+      },
+      "id": "way/537772011"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bench": "no",
+        "name": "Stresemannallee/Gartenstraße",
+        "bin": "no",
+        "tactile_paving": "no"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.6697297,
+            50.0988242
+          ],
+          [
+            8.6696591,
+            50.0988842
+          ],
+          [
+            8.6695889,
+            50.0989438
+          ]
+        ]
+      },
+      "id": "way/537923106"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bench": "yes",
+        "name": "Baseler Platz",
+        "bin": "yes",
+        "tactile_paving": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.6642613,
+            50.1028836
+          ],
+          [
+            8.6643875,
+            50.1028828
+          ],
+          [
+            8.6645168,
+            50.1028819
+          ]
+        ]
+      },
+      "id": "way/537929806"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bench": "yes",
+        "name": "Breslauer Straße",
+        "bin": "yes",
+        "tactile_paving": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.6768469,
+            50.0929056
+          ],
+          [
+            8.6768037,
+            50.0928819
+          ],
+          [
+            8.6767835,
+            50.0928708
+          ],
+          [
+            8.6767269,
+            50.0928398
+          ]
+        ]
+      },
+      "id": "way/538787594"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bench": "yes",
+        "name": "Breslauer Straße",
+        "bin": "yes",
+        "tactile_paving": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.6771929,
+            50.0927864
+          ],
+          [
+            8.6771206,
+            50.0927462
+          ],
+          [
+            8.6770481,
+            50.092706
+          ]
+        ]
+      },
+      "id": "way/538787596"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bench": "yes",
+        "name": "Beuthener Straße",
+        "bin": "yes",
+        "tactile_paving": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.6747615,
+            50.0914408
+          ],
+          [
+            8.6748404,
+            50.0914837
+          ],
+          [
+            8.6749198,
+            50.0915268
+          ]
+        ]
+      },
+      "id": "way/538788601"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bench": "yes",
+        "name": "Beuthener Straße",
+        "bin": "yes",
+        "tactile_paving": "no"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.6741768,
+            50.0914356
+          ],
+          [
+            8.6741036,
+            50.091393
+          ],
+          [
+            8.6740306,
+            50.0913504
+          ]
+        ]
+      },
+      "id": "way/538788603"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bench": "yes",
+        "name": "Gablonzer Straße",
+        "bin": "yes",
+        "tactile_paving": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.6724561,
+            50.0846646
+          ],
+          [
+            8.6725537,
+            50.0846486
+          ],
+          [
+            8.6726452,
+            50.0846336
+          ]
+        ]
+      },
+      "id": "way/538791528"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bench": "yes",
+        "name": "Gablonzer Straße",
+        "bin": "yes",
+        "tactile_paving": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.6719197,
+            50.084798
+          ],
+          [
+            8.6720323,
+            50.0847817
+          ],
+          [
+            8.6721497,
+            50.0847648
+          ]
+        ]
+      },
+      "id": "way/538791530"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bench": "yes",
+        "name": "Bockenheimer Warte",
+        "bin": "yes",
+        "tactile_paving": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.6509716,
+            50.1210476
+          ],
+          [
+            8.6509612,
+            50.1210239
+          ],
+          [
+            8.6509512,
+            50.1210005
+          ],
+          [
+            8.6509705,
+            50.120997
+          ],
+          [
+            8.6509628,
+            50.120979
+          ],
+          [
+            8.6509432,
+            50.1209827
+          ],
+          [
+            8.6509352,
+            50.1209649
+          ],
+          [
+            8.6509159,
+            50.1209227
+          ]
+        ]
+      },
+      "id": "way/539195597"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bench": "no",
+        "name": "Falkstraße",
+        "bin": "yes",
+        "tactile_paving": "no"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.6508531,
+            50.121542
+          ],
+          [
+            8.6508145,
+            50.1214542
+          ],
+          [
+            8.650758,
+            50.1213233
+          ]
+        ]
+      },
+      "id": "way/539195599"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bench": "no",
+        "name": "Otto-Hahn-Platz",
+        "bin": "no",
+        "tactile_paving": "no"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.6745927,
+            50.1011467
+          ],
+          [
+            8.674542,
+            50.1010923
+          ],
+          [
+            8.674482,
+            50.1010315
+          ]
+        ]
+      },
+      "id": "way/539207730"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bench": "no",
+        "name": "Schweizer-/Gartenstraße",
+        "bin": "yes",
+        "tactile_paving": "no"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.6793601,
+            50.1032234
+          ],
+          [
+            8.6790168,
+            50.1030918
+          ]
+        ]
+      },
+      "id": "way/539211768"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bench": "yes",
+        "name": "Schweizer-/Gartenstraße",
+        "bin": "yes",
+        "tactile_paving": "no"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.6797571,
+            50.10322
+          ],
+          [
+            8.6799355,
+            50.1029899
+          ]
+        ]
+      },
+      "id": "way/539211771"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bench": "no",
+        "name": "Mönchhofstraße",
+        "bin": "no",
+        "tactile_paving": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.6172164,
+            50.1005797
+          ],
+          [
+            8.6172921,
+            50.1005873
+          ],
+          [
+            8.6173793,
+            50.1005961
+          ]
+        ]
+      },
+      "id": "way/539399154"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bench": "yes",
+        "name": "Mönchhofstraße",
+        "bin": "yes",
+        "tactile_paving": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.6165421,
+            50.1005105
+          ],
+          [
+            8.6166019,
+            50.100516
+          ],
+          [
+            8.6166585,
+            50.1005212
+          ]
+        ]
+      },
+      "id": "way/539399157"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bench": "yes",
+        "name": "Stresemannallee/Mörfelder Landstraße",
+        "bin": "yes",
+        "tactile_paving": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.6701273,
+            50.0892402
+          ],
+          [
+            8.670063,
+            50.0892038
+          ],
+          [
+            8.6700006,
+            50.0891684
+          ]
+        ]
+      },
+      "id": "way/540196496"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bench": "yes",
+        "name": "Festhalle/Messe",
+        "bin": "yes",
+        "tactile_paving": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.6546225,
+            50.1129013
+          ],
+          [
+            8.6544704,
+            50.1129895
+          ]
+        ]
+      },
+      "id": "way/540420426"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bench": "no",
+        "name": "Bockenheimer Warte",
+        "bin": "no",
+        "tactile_paving": "no"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.6541752,
+            50.1206986
+          ],
+          [
+            8.6541993,
+            50.1205908
+          ],
+          [
+            8.6542068,
+            50.1205497
+          ],
+          [
+            8.6542112,
+            50.1204878
+          ]
+        ]
+      },
+      "id": "way/542394796"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bench": "yes",
+        "name": "Haardtwaldplatz",
+        "bin": "yes",
+        "tactile_paving": "no"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.6366855,
+            50.0865797
+          ],
+          [
+            8.6366359,
+            50.0866085
+          ],
+          [
+            8.6365823,
+            50.0866317
+          ],
+          [
+            8.6365246,
+            50.0866524
+          ],
+          [
+            8.6364622,
+            50.0866648
+          ],
+          [
+            8.6364133,
+            50.08667
+          ],
+          [
+            8.636367,
+            50.0866713
+          ]
+        ]
+      },
+      "id": "way/542428230"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bahnhof",
+        "bench": "yes",
+        "bin": "no",
+        "tactile_paving": "no"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.6541706,
+            50.1215242
+          ],
+          [
+            8.654179,
+            50.1215033
+          ]
+        ]
+      },
+      "id": "way/641587981"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ehem. Bahnhof Palmenexpress",
+        "bench": "no",
+        "bin": "no",
+        "tactile_paving": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.654179,
+            50.1215033
+          ],
+          [
+            8.6542152,
+            50.1213164
+          ]
+        ]
+      },
+      "id": "way/641587982"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bench": "no",
+        "name": "Westend",
+        "bin": "no",
+        "tactile_paving": "no"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.6620978,
+            50.1184051
+          ],
+          [
+            8.6621093,
+            50.1184206
+          ],
+          [
+            8.6621485,
+            50.1184094
+          ]
+        ]
+      },
+      "id": "way/1051963676"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bench": "yes",
+        "bin": "yes",
+        "tactile_paving": "no"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.6361046,
+            50.1235288
+          ],
+          [
+            8.6361176,
+            50.1235381
+          ],
+          [
+            8.6362437,
+            50.1234585
+          ],
+          [
+            8.6363545,
+            50.1233866
+          ],
+          [
+            8.6363423,
+            50.1233777
+          ]
+        ]
+      },
+      "id": "way/1210757991"
+    }
+  ]
+}
