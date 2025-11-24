@@ -1,5 +1,7 @@
 # Upload data
 
+> [🔴 Demo recording: Uploading your own data](https://mediaspace.esri.com/media/t/1_gbywxedq)
+
 As a data analyst I have been assigned several tasks:
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
