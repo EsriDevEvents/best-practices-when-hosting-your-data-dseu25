@@ -6,7 +6,7 @@ import {
   BUILDINGS_PAINT_PROPS, 
   DOCTORS_PAINT_PROPS, 
   KINDERGARDEN_PAINT_PROPS 
-} from "../config.js";
+} from "./config.js";
 
 const map = new maplibregl.Map({
   container: 'map',
