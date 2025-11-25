@@ -12,9 +12,9 @@ Let's pretend we work for GeoDataProvider GmbH, a company specialized in data ac
 
 Demo recordings:
 * [🔴 Demo 1: Uploading your own data](https://mediaspace.esri.com/media/t/1_gbywxedq)
-* [🔴 Demo 2: Layers showcase app](https://mediaspace.esri.com/media/1_ju4l0339)
+* [🔴 Demo 2: Showcase app using vector layers](https://mediaspace.esri.com/media/1_ju4l0339)
 * [🔴 Demo 3: Buildings inspection app](https://mediaspace.esri.com/media/1_qzmkny07)
-* [🔴 Demo 4: Feature Service SDK trade-offs](https://mediaspace.esri.com/media/1_6ddj1ouk)
+* [🔴 Demo 4: Feature service SDK trade-offs](https://mediaspace.esri.com/media/1_6ddj1ouk)
 
 ## Data attribution
 

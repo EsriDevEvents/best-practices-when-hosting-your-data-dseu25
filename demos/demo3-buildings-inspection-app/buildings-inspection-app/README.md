@@ -1,15 +1,16 @@
+# Demo steps
 
 * Create a view layer for an operator to edit buildings:
   * Just main buildings
     * Filter -> Operator: Nora Holtfreter
     * Area ->  Edit in that area
-    * Fields remove: id, amenity, operator,  , shapes
+    * Fields remove: id, amenity, operator, shapes
   * Define view: 
     * Building inspections by Nora
 * Configure enable editing
   * Create a web map
   * Add sketch notes
-  * Save
+  * Save web map
   * Create a dev credential: 
     * Privileges: 
       * Basemaps 
